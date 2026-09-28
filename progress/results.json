@@ -110,6 +110,18 @@
       "dailyDate": null
     },
     {
+      "id": "20",
+      "submission": 2156507505,
+      "status": "Accepted",
+      "tests": "103/103",
+      "runtime": "3 ms",
+      "memory": "54.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "26",
       "submission": 2156503235,
       "status": "Accepted",
@@ -242,6 +254,30 @@
       "dailyDate": null
     },
     {
+      "id": "56",
+      "submission": 2156506827,
+      "status": "Accepted",
+      "tests": "172/172",
+      "runtime": "13 ms",
+      "memory": "67.1 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "57",
+      "submission": 2156507439,
+      "status": "Accepted",
+      "tests": "158/158",
+      "runtime": "2 ms",
+      "memory": "58.2 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "58",
       "submission": 2156504509,
       "status": "Accepted",
@@ -272,6 +308,18 @@
       "tests": "29/29",
       "runtime": "1 ms",
       "memory": "52.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "71",
+      "submission": 2156507581,
+      "status": "Accepted",
+      "tests": "265/265",
+      "runtime": "3 ms",
+      "memory": "56 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -399,6 +447,18 @@
       "dailyDate": null
     },
     {
+      "id": "128",
+      "submission": 2156506729,
+      "status": "Accepted",
+      "tests": "85/85",
+      "runtime": "31 ms",
+      "memory": "80.7 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "134",
       "submission": 2156504109,
       "status": "Accepted",
@@ -435,12 +495,36 @@
       "dailyDate": null
     },
     {
+      "id": "150",
+      "submission": 2156507681,
+      "status": "Accepted",
+      "tests": "23/23",
+      "runtime": "1 ms",
+      "memory": "58.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "151",
       "submission": 2156496126,
       "status": "Accepted",
       "tests": "62/62",
       "runtime": "0 ms",
       "memory": "55 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "155",
+      "submission": 2156507629,
+      "status": "Accepted",
+      "tests": "45/45",
+      "runtime": "92 ms",
+      "memory": "86 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -519,6 +603,18 @@
       "dailyDate": null
     },
     {
+      "id": "202",
+      "submission": 2156506616,
+      "status": "Accepted",
+      "tests": "423/423",
+      "runtime": "0 ms",
+      "memory": "53.2 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "205",
       "submission": 2156506217,
       "status": "Accepted",
@@ -583,6 +679,30 @@
       "submission": 2156501139,
       "status": "Accepted",
       "tests": "19/19",
+      "runtime": "0 ms",
+      "memory": "54 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "219",
+      "submission": 2156506665,
+      "status": "Accepted",
+      "tests": "71/71",
+      "runtime": "37 ms",
+      "memory": "84.8 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "228",
+      "submission": 2156506777,
+      "status": "Accepted",
+      "tests": "34/34",
       "runtime": "0 ms",
       "memory": "54 MB",
       "language": "javascript",
