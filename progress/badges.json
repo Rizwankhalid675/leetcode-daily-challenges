@@ -1,0 +1,32 @@
+{
+  "note": "Hand-maintained. A requirement is marked verified only when it was read from LeetCode/GitHub itself; otherwise 'unverified'. A badge is EARNED only when the profile shows it.",
+  "statusValues": ["LOCKED", "IN PROGRESS", "EARNED", "REQUIRES FUTURE DATE", "REQUIRES CONTEST", "REQUIRES PREMIUM", "REQUIRES USER ACTION", "NOT CURRENTLY OBTAINABLE"],
+  "leetcode": [
+    { "name": "LeetCode 75", "type": "study plan", "requirement": "Complete the study plan (plan page: 'Complete the study plan to win the badge!'); 75 free questions", "verified": true, "contributes": "Accepted submissions on plan questions after the plan is started", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started with the 'Start' button; awaiting approval to join plans" },
+    { "name": "Top Interview 150", "type": "study plan", "requirement": "Complete the study plan; 150 free questions", "verified": true, "contributes": "Plan questions", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started" },
+    { "name": "Top 100 Liked", "type": "study plan", "requirement": "Complete the study plan; 100 free questions", "verified": true, "contributes": "Plan questions", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started" },
+    { "name": "Programming Skills", "type": "study plan", "requirement": "Complete the study plan; 33 questions visible, 3 groups not visible via API", "verified": true, "contributes": "Plan questions", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started; hidden groups may be Premium (unverified)" },
+    { "name": "Dynamic Programming", "type": "study plan", "requirement": "Complete the study plan; 46 questions visible, 1 group not visible via API", "verified": true, "contributes": "Plan questions", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started; hidden group may be Premium (unverified)" },
+    { "name": "30 Days of JavaScript", "type": "study plan", "requirement": "Complete the study plan; 30 questions visible, bonus group not visible via API", "verified": true, "contributes": "Plan questions (JavaScript track)", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started" },
+    { "name": "SQL 50", "type": "study plan", "requirement": "Complete the study plan; 50 free SQL questions", "verified": true, "contributes": "Plan questions (SQL, not JavaScript)", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started; needs SQL" },
+    { "name": "Introduction to Pandas", "type": "study plan", "requirement": "Complete the study plan; 15 free Pandas questions", "verified": true, "contributes": "Plan questions (Python/Pandas, not JavaScript)", "status": "REQUIRES USER ACTION", "blocker": "Plan must be started; needs Python" },
+    { "name": "Binary Search", "type": "study plan", "requirement": "Complete the study plan; contains 3 Premium-only questions (702, 1533, 1099)", "verified": true, "contributes": "Plan questions", "status": "REQUIRES PREMIUM" },
+    { "name": "Graph Theory", "type": "study plan", "requirement": "Complete the study plan; contains 2 Premium-only questions (261, 269)", "verified": true, "contributes": "Plan questions", "status": "REQUIRES PREMIUM" },
+    { "name": "30 Days of Pandas", "type": "study plan", "requirement": "Complete the study plan; contains 5 Premium-only questions", "verified": true, "contributes": "Plan questions", "status": "REQUIRES PREMIUM" },
+    { "name": "DP Grandmaster", "type": "study plan", "requirement": "Premium-only plan", "verified": true, "status": "REQUIRES PREMIUM" },
+    { "name": "Premium Algo 100", "type": "study plan", "requirement": "Premium-only plan", "verified": true, "status": "REQUIRES PREMIUM" },
+    { "name": "Sep LeetCoding Challenge (DCC September 2026)", "type": "monthly daily-challenge badge", "requirement": "Complete every Daily Challenge of the month; Time Travel Tickets can make up at most 3 days", "verified": true, "progress": "1 / 30", "status": "NOT CURRENTLY OBTAINABLE", "blocker": "27 days missed before the project started" },
+    { "name": "Oct LeetCoding Challenge (DCC October 2026)", "type": "monthly daily-challenge badge", "requirement": "Complete every October 2026 Daily Challenge inside its window", "verified": true, "progress": "0 / 31", "earliest": "2026-10-31", "status": "REQUIRES FUTURE DATE" },
+    { "name": "Annual active-days badges (e.g. 50 Days / 100 Days)", "type": "annual", "requirement": "unverified in this session: not listed on the profile's badge section", "verified": false, "progress": "1 active day in 2026", "status": "REQUIRES FUTURE DATE", "blocker": "Only ~95 days remain in 2026; a 100-day badge for 2026 would not be reachable if it requires 100 days in the calendar year" },
+    { "name": "Contest badges (Knight / Guardian)", "type": "contest rating", "requirement": "Contest rating thresholds (from general knowledge; unverified in this session)", "verified": false, "status": "REQUIRES CONTEST", "blocker": "Must be earned by you personally in live contests; AI must not compete on your behalf" }
+  ],
+  "github": [
+    { "name": "Quickdraw", "status": "EXISTING" },
+    { "name": "Pull Shark", "status": "NOT APPROPRIATE TO PURSUE", "why": "Would require opening PRs purely to earn the badge" },
+    { "name": "YOLO", "status": "NOT APPROPRIATE TO PURSUE", "why": "Same reason" },
+    { "name": "Pair Extraordinaire", "status": "REQUIRES REAL COLLABORATION" },
+    { "name": "Starstruck", "status": "REQUIRES ANOTHER PERSON", "why": "16 stars from other users" },
+    { "name": "Galaxy Brain", "status": "REQUIRES ANOTHER PERSON", "why": "Accepted answers in Discussions" },
+    { "name": "Public Sponsor", "status": "REQUIRES PAYMENT" }
+  ]
+}

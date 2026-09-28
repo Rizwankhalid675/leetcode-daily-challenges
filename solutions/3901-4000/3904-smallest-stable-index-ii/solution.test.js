@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert');
 const { firstStableIndex } = require('./solution');
-const { firstStableIndex: quadratic } = require('../04-3903-smallest-stable-index-i/solution');
+const { firstStableIndex: quadratic } = require('../3903-smallest-stable-index-i/solution');
 
 test('official examples', () => {
   assert.strictEqual(firstStableIndex([5, 0, 1, 4], 3), 3);

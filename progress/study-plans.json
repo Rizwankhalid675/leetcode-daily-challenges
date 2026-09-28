@@ -1,0 +1,3770 @@
+{
+ "fetchedAt": "2026-09-28T23:06:06.974Z",
+ "plans": [
+  {
+   "slug": "leetcode-75",
+   "name": "LeetCode 75",
+   "badge": "LeetCode 75",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 75,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Array / String",
+     "questions": [
+      {
+       "id": "1768",
+       "slug": "merge-strings-alternately",
+       "premium": false
+      },
+      {
+       "id": "1071",
+       "slug": "greatest-common-divisor-of-strings",
+       "premium": false
+      },
+      {
+       "id": "1431",
+       "slug": "kids-with-the-greatest-number-of-candies",
+       "premium": false
+      },
+      {
+       "id": "605",
+       "slug": "can-place-flowers",
+       "premium": false
+      },
+      {
+       "id": "345",
+       "slug": "reverse-vowels-of-a-string",
+       "premium": false
+      },
+      {
+       "id": "151",
+       "slug": "reverse-words-in-a-string",
+       "premium": false
+      },
+      {
+       "id": "238",
+       "slug": "product-of-array-except-self",
+       "premium": false
+      },
+      {
+       "id": "334",
+       "slug": "increasing-triplet-subsequence",
+       "premium": false
+      },
+      {
+       "id": "443",
+       "slug": "string-compression",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Two Pointers",
+     "questions": [
+      {
+       "id": "283",
+       "slug": "move-zeroes",
+       "premium": false
+      },
+      {
+       "id": "392",
+       "slug": "is-subsequence",
+       "premium": false
+      },
+      {
+       "id": "11",
+       "slug": "container-with-most-water",
+       "premium": false
+      },
+      {
+       "id": "1679",
+       "slug": "max-number-of-k-sum-pairs",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Sliding Window",
+     "questions": [
+      {
+       "id": "643",
+       "slug": "maximum-average-subarray-i",
+       "premium": false
+      },
+      {
+       "id": "1456",
+       "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+       "premium": false
+      },
+      {
+       "id": "1004",
+       "slug": "max-consecutive-ones-iii",
+       "premium": false
+      },
+      {
+       "id": "1493",
+       "slug": "longest-subarray-of-1s-after-deleting-one-element",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Prefix Sum",
+     "questions": [
+      {
+       "id": "1732",
+       "slug": "find-the-highest-altitude",
+       "premium": false
+      },
+      {
+       "id": "724",
+       "slug": "find-pivot-index",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Hash Map / Set",
+     "questions": [
+      {
+       "id": "2215",
+       "slug": "find-the-difference-of-two-arrays",
+       "premium": false
+      },
+      {
+       "id": "1207",
+       "slug": "unique-number-of-occurrences",
+       "premium": false
+      },
+      {
+       "id": "1657",
+       "slug": "determine-if-two-strings-are-close",
+       "premium": false
+      },
+      {
+       "id": "2352",
+       "slug": "equal-row-and-column-pairs",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Stack",
+     "questions": [
+      {
+       "id": "2390",
+       "slug": "removing-stars-from-a-string",
+       "premium": false
+      },
+      {
+       "id": "735",
+       "slug": "asteroid-collision",
+       "premium": false
+      },
+      {
+       "id": "394",
+       "slug": "decode-string",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Queue",
+     "questions": [
+      {
+       "id": "933",
+       "slug": "number-of-recent-calls",
+       "premium": false
+      },
+      {
+       "id": "649",
+       "slug": "dota2-senate",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Linked List",
+     "questions": [
+      {
+       "id": "2095",
+       "slug": "delete-the-middle-node-of-a-linked-list",
+       "premium": false
+      },
+      {
+       "id": "328",
+       "slug": "odd-even-linked-list",
+       "premium": false
+      },
+      {
+       "id": "206",
+       "slug": "reverse-linked-list",
+       "premium": false
+      },
+      {
+       "id": "2130",
+       "slug": "maximum-twin-sum-of-a-linked-list",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree - DFS",
+     "questions": [
+      {
+       "id": "104",
+       "slug": "maximum-depth-of-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "872",
+       "slug": "leaf-similar-trees",
+       "premium": false
+      },
+      {
+       "id": "1448",
+       "slug": "count-good-nodes-in-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "437",
+       "slug": "path-sum-iii",
+       "premium": false
+      },
+      {
+       "id": "1372",
+       "slug": "longest-zigzag-path-in-a-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "236",
+       "slug": "lowest-common-ancestor-of-a-binary-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree - BFS",
+     "questions": [
+      {
+       "id": "199",
+       "slug": "binary-tree-right-side-view",
+       "premium": false
+      },
+      {
+       "id": "1161",
+       "slug": "maximum-level-sum-of-a-binary-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Search Tree",
+     "questions": [
+      {
+       "id": "700",
+       "slug": "search-in-a-binary-search-tree",
+       "premium": false
+      },
+      {
+       "id": "450",
+       "slug": "delete-node-in-a-bst",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graphs - DFS",
+     "questions": [
+      {
+       "id": "841",
+       "slug": "keys-and-rooms",
+       "premium": false
+      },
+      {
+       "id": "547",
+       "slug": "number-of-provinces",
+       "premium": false
+      },
+      {
+       "id": "1466",
+       "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+       "premium": false
+      },
+      {
+       "id": "399",
+       "slug": "evaluate-division",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graphs - BFS",
+     "questions": [
+      {
+       "id": "1926",
+       "slug": "nearest-exit-from-entrance-in-maze",
+       "premium": false
+      },
+      {
+       "id": "994",
+       "slug": "rotting-oranges",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Heap / Priority Queue",
+     "questions": [
+      {
+       "id": "215",
+       "slug": "kth-largest-element-in-an-array",
+       "premium": false
+      },
+      {
+       "id": "2336",
+       "slug": "smallest-number-in-infinite-set",
+       "premium": false
+      },
+      {
+       "id": "2542",
+       "slug": "maximum-subsequence-score",
+       "premium": false
+      },
+      {
+       "id": "2462",
+       "slug": "total-cost-to-hire-k-workers",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Search",
+     "questions": [
+      {
+       "id": "374",
+       "slug": "guess-number-higher-or-lower",
+       "premium": false
+      },
+      {
+       "id": "2300",
+       "slug": "successful-pairs-of-spells-and-potions",
+       "premium": false
+      },
+      {
+       "id": "162",
+       "slug": "find-peak-element",
+       "premium": false
+      },
+      {
+       "id": "875",
+       "slug": "koko-eating-bananas",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Backtracking",
+     "questions": [
+      {
+       "id": "17",
+       "slug": "letter-combinations-of-a-phone-number",
+       "premium": false
+      },
+      {
+       "id": "216",
+       "slug": "combination-sum-iii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "DP - 1D",
+     "questions": [
+      {
+       "id": "1137",
+       "slug": "n-th-tribonacci-number",
+       "premium": false
+      },
+      {
+       "id": "746",
+       "slug": "min-cost-climbing-stairs",
+       "premium": false
+      },
+      {
+       "id": "198",
+       "slug": "house-robber",
+       "premium": false
+      },
+      {
+       "id": "790",
+       "slug": "domino-and-tromino-tiling",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "DP - Multidimensional",
+     "questions": [
+      {
+       "id": "62",
+       "slug": "unique-paths",
+       "premium": false
+      },
+      {
+       "id": "1143",
+       "slug": "longest-common-subsequence",
+       "premium": false
+      },
+      {
+       "id": "714",
+       "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+       "premium": false
+      },
+      {
+       "id": "72",
+       "slug": "edit-distance",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Bit Manipulation",
+     "questions": [
+      {
+       "id": "338",
+       "slug": "counting-bits",
+       "premium": false
+      },
+      {
+       "id": "136",
+       "slug": "single-number",
+       "premium": false
+      },
+      {
+       "id": "1318",
+       "slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Trie",
+     "questions": [
+      {
+       "id": "208",
+       "slug": "implement-trie-prefix-tree",
+       "premium": false
+      },
+      {
+       "id": "1268",
+       "slug": "search-suggestions-system",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Intervals",
+     "questions": [
+      {
+       "id": "435",
+       "slug": "non-overlapping-intervals",
+       "premium": false
+      },
+      {
+       "id": "452",
+       "slug": "minimum-number-of-arrows-to-burst-balloons",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Monotonic Stack",
+     "questions": [
+      {
+       "id": "739",
+       "slug": "daily-temperatures",
+       "premium": false
+      },
+      {
+       "id": "901",
+       "slug": "online-stock-span",
+       "premium": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "top-interview-150",
+   "name": "Top Interview 150",
+   "badge": "Top Interview 150",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 150,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Array / String",
+     "questions": [
+      {
+       "id": "88",
+       "slug": "merge-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "27",
+       "slug": "remove-element",
+       "premium": false
+      },
+      {
+       "id": "26",
+       "slug": "remove-duplicates-from-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "80",
+       "slug": "remove-duplicates-from-sorted-array-ii",
+       "premium": false
+      },
+      {
+       "id": "169",
+       "slug": "majority-element",
+       "premium": false
+      },
+      {
+       "id": "189",
+       "slug": "rotate-array",
+       "premium": false
+      },
+      {
+       "id": "121",
+       "slug": "best-time-to-buy-and-sell-stock",
+       "premium": false
+      },
+      {
+       "id": "122",
+       "slug": "best-time-to-buy-and-sell-stock-ii",
+       "premium": false
+      },
+      {
+       "id": "55",
+       "slug": "jump-game",
+       "premium": false
+      },
+      {
+       "id": "45",
+       "slug": "jump-game-ii",
+       "premium": false
+      },
+      {
+       "id": "274",
+       "slug": "h-index",
+       "premium": false
+      },
+      {
+       "id": "380",
+       "slug": "insert-delete-getrandom-o1",
+       "premium": false
+      },
+      {
+       "id": "238",
+       "slug": "product-of-array-except-self",
+       "premium": false
+      },
+      {
+       "id": "134",
+       "slug": "gas-station",
+       "premium": false
+      },
+      {
+       "id": "135",
+       "slug": "candy",
+       "premium": false
+      },
+      {
+       "id": "42",
+       "slug": "trapping-rain-water",
+       "premium": false
+      },
+      {
+       "id": "13",
+       "slug": "roman-to-integer",
+       "premium": false
+      },
+      {
+       "id": "12",
+       "slug": "integer-to-roman",
+       "premium": false
+      },
+      {
+       "id": "58",
+       "slug": "length-of-last-word",
+       "premium": false
+      },
+      {
+       "id": "14",
+       "slug": "longest-common-prefix",
+       "premium": false
+      },
+      {
+       "id": "151",
+       "slug": "reverse-words-in-a-string",
+       "premium": false
+      },
+      {
+       "id": "6",
+       "slug": "zigzag-conversion",
+       "premium": false
+      },
+      {
+       "id": "28",
+       "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+       "premium": false
+      },
+      {
+       "id": "68",
+       "slug": "text-justification",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Two Pointers",
+     "questions": [
+      {
+       "id": "125",
+       "slug": "valid-palindrome",
+       "premium": false
+      },
+      {
+       "id": "392",
+       "slug": "is-subsequence",
+       "premium": false
+      },
+      {
+       "id": "167",
+       "slug": "two-sum-ii-input-array-is-sorted",
+       "premium": false
+      },
+      {
+       "id": "11",
+       "slug": "container-with-most-water",
+       "premium": false
+      },
+      {
+       "id": "15",
+       "slug": "3sum",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Sliding Window",
+     "questions": [
+      {
+       "id": "209",
+       "slug": "minimum-size-subarray-sum",
+       "premium": false
+      },
+      {
+       "id": "3",
+       "slug": "longest-substring-without-repeating-characters",
+       "premium": false
+      },
+      {
+       "id": "30",
+       "slug": "substring-with-concatenation-of-all-words",
+       "premium": false
+      },
+      {
+       "id": "76",
+       "slug": "minimum-window-substring",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Matrix",
+     "questions": [
+      {
+       "id": "36",
+       "slug": "valid-sudoku",
+       "premium": false
+      },
+      {
+       "id": "54",
+       "slug": "spiral-matrix",
+       "premium": false
+      },
+      {
+       "id": "48",
+       "slug": "rotate-image",
+       "premium": false
+      },
+      {
+       "id": "73",
+       "slug": "set-matrix-zeroes",
+       "premium": false
+      },
+      {
+       "id": "289",
+       "slug": "game-of-life",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Hashmap",
+     "questions": [
+      {
+       "id": "383",
+       "slug": "ransom-note",
+       "premium": false
+      },
+      {
+       "id": "205",
+       "slug": "isomorphic-strings",
+       "premium": false
+      },
+      {
+       "id": "290",
+       "slug": "word-pattern",
+       "premium": false
+      },
+      {
+       "id": "242",
+       "slug": "valid-anagram",
+       "premium": false
+      },
+      {
+       "id": "49",
+       "slug": "group-anagrams",
+       "premium": false
+      },
+      {
+       "id": "1",
+       "slug": "two-sum",
+       "premium": false
+      },
+      {
+       "id": "202",
+       "slug": "happy-number",
+       "premium": false
+      },
+      {
+       "id": "219",
+       "slug": "contains-duplicate-ii",
+       "premium": false
+      },
+      {
+       "id": "128",
+       "slug": "longest-consecutive-sequence",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Intervals",
+     "questions": [
+      {
+       "id": "228",
+       "slug": "summary-ranges",
+       "premium": false
+      },
+      {
+       "id": "56",
+       "slug": "merge-intervals",
+       "premium": false
+      },
+      {
+       "id": "57",
+       "slug": "insert-interval",
+       "premium": false
+      },
+      {
+       "id": "452",
+       "slug": "minimum-number-of-arrows-to-burst-balloons",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Stack",
+     "questions": [
+      {
+       "id": "20",
+       "slug": "valid-parentheses",
+       "premium": false
+      },
+      {
+       "id": "71",
+       "slug": "simplify-path",
+       "premium": false
+      },
+      {
+       "id": "155",
+       "slug": "min-stack",
+       "premium": false
+      },
+      {
+       "id": "150",
+       "slug": "evaluate-reverse-polish-notation",
+       "premium": false
+      },
+      {
+       "id": "224",
+       "slug": "basic-calculator",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Linked List",
+     "questions": [
+      {
+       "id": "141",
+       "slug": "linked-list-cycle",
+       "premium": false
+      },
+      {
+       "id": "2",
+       "slug": "add-two-numbers",
+       "premium": false
+      },
+      {
+       "id": "21",
+       "slug": "merge-two-sorted-lists",
+       "premium": false
+      },
+      {
+       "id": "138",
+       "slug": "copy-list-with-random-pointer",
+       "premium": false
+      },
+      {
+       "id": "92",
+       "slug": "reverse-linked-list-ii",
+       "premium": false
+      },
+      {
+       "id": "25",
+       "slug": "reverse-nodes-in-k-group",
+       "premium": false
+      },
+      {
+       "id": "19",
+       "slug": "remove-nth-node-from-end-of-list",
+       "premium": false
+      },
+      {
+       "id": "82",
+       "slug": "remove-duplicates-from-sorted-list-ii",
+       "premium": false
+      },
+      {
+       "id": "61",
+       "slug": "rotate-list",
+       "premium": false
+      },
+      {
+       "id": "86",
+       "slug": "partition-list",
+       "premium": false
+      },
+      {
+       "id": "146",
+       "slug": "lru-cache",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree General",
+     "questions": [
+      {
+       "id": "104",
+       "slug": "maximum-depth-of-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "100",
+       "slug": "same-tree",
+       "premium": false
+      },
+      {
+       "id": "226",
+       "slug": "invert-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "101",
+       "slug": "symmetric-tree",
+       "premium": false
+      },
+      {
+       "id": "105",
+       "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+       "premium": false
+      },
+      {
+       "id": "106",
+       "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+       "premium": false
+      },
+      {
+       "id": "117",
+       "slug": "populating-next-right-pointers-in-each-node-ii",
+       "premium": false
+      },
+      {
+       "id": "114",
+       "slug": "flatten-binary-tree-to-linked-list",
+       "premium": false
+      },
+      {
+       "id": "112",
+       "slug": "path-sum",
+       "premium": false
+      },
+      {
+       "id": "129",
+       "slug": "sum-root-to-leaf-numbers",
+       "premium": false
+      },
+      {
+       "id": "124",
+       "slug": "binary-tree-maximum-path-sum",
+       "premium": false
+      },
+      {
+       "id": "173",
+       "slug": "binary-search-tree-iterator",
+       "premium": false
+      },
+      {
+       "id": "222",
+       "slug": "count-complete-tree-nodes",
+       "premium": false
+      },
+      {
+       "id": "236",
+       "slug": "lowest-common-ancestor-of-a-binary-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree BFS",
+     "questions": [
+      {
+       "id": "199",
+       "slug": "binary-tree-right-side-view",
+       "premium": false
+      },
+      {
+       "id": "637",
+       "slug": "average-of-levels-in-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "102",
+       "slug": "binary-tree-level-order-traversal",
+       "premium": false
+      },
+      {
+       "id": "103",
+       "slug": "binary-tree-zigzag-level-order-traversal",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Search Tree",
+     "questions": [
+      {
+       "id": "530",
+       "slug": "minimum-absolute-difference-in-bst",
+       "premium": false
+      },
+      {
+       "id": "230",
+       "slug": "kth-smallest-element-in-a-bst",
+       "premium": false
+      },
+      {
+       "id": "98",
+       "slug": "validate-binary-search-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graph General",
+     "questions": [
+      {
+       "id": "200",
+       "slug": "number-of-islands",
+       "premium": false
+      },
+      {
+       "id": "130",
+       "slug": "surrounded-regions",
+       "premium": false
+      },
+      {
+       "id": "133",
+       "slug": "clone-graph",
+       "premium": false
+      },
+      {
+       "id": "399",
+       "slug": "evaluate-division",
+       "premium": false
+      },
+      {
+       "id": "207",
+       "slug": "course-schedule",
+       "premium": false
+      },
+      {
+       "id": "210",
+       "slug": "course-schedule-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graph BFS",
+     "questions": [
+      {
+       "id": "909",
+       "slug": "snakes-and-ladders",
+       "premium": false
+      },
+      {
+       "id": "433",
+       "slug": "minimum-genetic-mutation",
+       "premium": false
+      },
+      {
+       "id": "127",
+       "slug": "word-ladder",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Trie",
+     "questions": [
+      {
+       "id": "208",
+       "slug": "implement-trie-prefix-tree",
+       "premium": false
+      },
+      {
+       "id": "211",
+       "slug": "design-add-and-search-words-data-structure",
+       "premium": false
+      },
+      {
+       "id": "212",
+       "slug": "word-search-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Backtracking",
+     "questions": [
+      {
+       "id": "17",
+       "slug": "letter-combinations-of-a-phone-number",
+       "premium": false
+      },
+      {
+       "id": "77",
+       "slug": "combinations",
+       "premium": false
+      },
+      {
+       "id": "46",
+       "slug": "permutations",
+       "premium": false
+      },
+      {
+       "id": "39",
+       "slug": "combination-sum",
+       "premium": false
+      },
+      {
+       "id": "52",
+       "slug": "n-queens-ii",
+       "premium": false
+      },
+      {
+       "id": "22",
+       "slug": "generate-parentheses",
+       "premium": false
+      },
+      {
+       "id": "79",
+       "slug": "word-search",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Divide & Conquer",
+     "questions": [
+      {
+       "id": "108",
+       "slug": "convert-sorted-array-to-binary-search-tree",
+       "premium": false
+      },
+      {
+       "id": "148",
+       "slug": "sort-list",
+       "premium": false
+      },
+      {
+       "id": "427",
+       "slug": "construct-quad-tree",
+       "premium": false
+      },
+      {
+       "id": "23",
+       "slug": "merge-k-sorted-lists",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Kadane's Algorithm",
+     "questions": [
+      {
+       "id": "53",
+       "slug": "maximum-subarray",
+       "premium": false
+      },
+      {
+       "id": "918",
+       "slug": "maximum-sum-circular-subarray",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Search",
+     "questions": [
+      {
+       "id": "35",
+       "slug": "search-insert-position",
+       "premium": false
+      },
+      {
+       "id": "74",
+       "slug": "search-a-2d-matrix",
+       "premium": false
+      },
+      {
+       "id": "162",
+       "slug": "find-peak-element",
+       "premium": false
+      },
+      {
+       "id": "33",
+       "slug": "search-in-rotated-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "34",
+       "slug": "find-first-and-last-position-of-element-in-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "153",
+       "slug": "find-minimum-in-rotated-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "4",
+       "slug": "median-of-two-sorted-arrays",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Heap",
+     "questions": [
+      {
+       "id": "215",
+       "slug": "kth-largest-element-in-an-array",
+       "premium": false
+      },
+      {
+       "id": "502",
+       "slug": "ipo",
+       "premium": false
+      },
+      {
+       "id": "373",
+       "slug": "find-k-pairs-with-smallest-sums",
+       "premium": false
+      },
+      {
+       "id": "295",
+       "slug": "find-median-from-data-stream",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Bit Manipulation",
+     "questions": [
+      {
+       "id": "67",
+       "slug": "add-binary",
+       "premium": false
+      },
+      {
+       "id": "190",
+       "slug": "reverse-bits",
+       "premium": false
+      },
+      {
+       "id": "191",
+       "slug": "number-of-1-bits",
+       "premium": false
+      },
+      {
+       "id": "136",
+       "slug": "single-number",
+       "premium": false
+      },
+      {
+       "id": "137",
+       "slug": "single-number-ii",
+       "premium": false
+      },
+      {
+       "id": "201",
+       "slug": "bitwise-and-of-numbers-range",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Math",
+     "questions": [
+      {
+       "id": "9",
+       "slug": "palindrome-number",
+       "premium": false
+      },
+      {
+       "id": "66",
+       "slug": "plus-one",
+       "premium": false
+      },
+      {
+       "id": "172",
+       "slug": "factorial-trailing-zeroes",
+       "premium": false
+      },
+      {
+       "id": "69",
+       "slug": "sqrtx",
+       "premium": false
+      },
+      {
+       "id": "50",
+       "slug": "powx-n",
+       "premium": false
+      },
+      {
+       "id": "149",
+       "slug": "max-points-on-a-line",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "1D DP",
+     "questions": [
+      {
+       "id": "70",
+       "slug": "climbing-stairs",
+       "premium": false
+      },
+      {
+       "id": "198",
+       "slug": "house-robber",
+       "premium": false
+      },
+      {
+       "id": "139",
+       "slug": "word-break",
+       "premium": false
+      },
+      {
+       "id": "322",
+       "slug": "coin-change",
+       "premium": false
+      },
+      {
+       "id": "300",
+       "slug": "longest-increasing-subsequence",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Multidimensional DP",
+     "questions": [
+      {
+       "id": "120",
+       "slug": "triangle",
+       "premium": false
+      },
+      {
+       "id": "64",
+       "slug": "minimum-path-sum",
+       "premium": false
+      },
+      {
+       "id": "63",
+       "slug": "unique-paths-ii",
+       "premium": false
+      },
+      {
+       "id": "5",
+       "slug": "longest-palindromic-substring",
+       "premium": false
+      },
+      {
+       "id": "97",
+       "slug": "interleaving-string",
+       "premium": false
+      },
+      {
+       "id": "72",
+       "slug": "edit-distance",
+       "premium": false
+      },
+      {
+       "id": "123",
+       "slug": "best-time-to-buy-and-sell-stock-iii",
+       "premium": false
+      },
+      {
+       "id": "188",
+       "slug": "best-time-to-buy-and-sell-stock-iv",
+       "premium": false
+      },
+      {
+       "id": "221",
+       "slug": "maximal-square",
+       "premium": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "top-100-liked",
+   "name": "Top 100 Liked",
+   "badge": "Top 100 Liked",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 100,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Backtracking",
+     "questions": [
+      {
+       "id": "17",
+       "slug": "letter-combinations-of-a-phone-number",
+       "premium": false
+      },
+      {
+       "id": "22",
+       "slug": "generate-parentheses",
+       "premium": false
+      },
+      {
+       "id": "39",
+       "slug": "combination-sum",
+       "premium": false
+      },
+      {
+       "id": "46",
+       "slug": "permutations",
+       "premium": false
+      },
+      {
+       "id": "51",
+       "slug": "n-queens",
+       "premium": false
+      },
+      {
+       "id": "78",
+       "slug": "subsets",
+       "premium": false
+      },
+      {
+       "id": "79",
+       "slug": "word-search",
+       "premium": false
+      },
+      {
+       "id": "131",
+       "slug": "palindrome-partitioning",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Search",
+     "questions": [
+      {
+       "id": "4",
+       "slug": "median-of-two-sorted-arrays",
+       "premium": false
+      },
+      {
+       "id": "33",
+       "slug": "search-in-rotated-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "34",
+       "slug": "find-first-and-last-position-of-element-in-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "35",
+       "slug": "search-insert-position",
+       "premium": false
+      },
+      {
+       "id": "74",
+       "slug": "search-a-2d-matrix",
+       "premium": false
+      },
+      {
+       "id": "124",
+       "slug": "binary-tree-maximum-path-sum",
+       "premium": false
+      },
+      {
+       "id": "153",
+       "slug": "find-minimum-in-rotated-sorted-array",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree",
+     "questions": [
+      {
+       "id": "94",
+       "slug": "binary-tree-inorder-traversal",
+       "premium": false
+      },
+      {
+       "id": "98",
+       "slug": "validate-binary-search-tree",
+       "premium": false
+      },
+      {
+       "id": "101",
+       "slug": "symmetric-tree",
+       "premium": false
+      },
+      {
+       "id": "102",
+       "slug": "binary-tree-level-order-traversal",
+       "premium": false
+      },
+      {
+       "id": "104",
+       "slug": "maximum-depth-of-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "105",
+       "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+       "premium": false
+      },
+      {
+       "id": "108",
+       "slug": "convert-sorted-array-to-binary-search-tree",
+       "premium": false
+      },
+      {
+       "id": "114",
+       "slug": "flatten-binary-tree-to-linked-list",
+       "premium": false
+      },
+      {
+       "id": "199",
+       "slug": "binary-tree-right-side-view",
+       "premium": false
+      },
+      {
+       "id": "226",
+       "slug": "invert-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "230",
+       "slug": "kth-smallest-element-in-a-bst",
+       "premium": false
+      },
+      {
+       "id": "236",
+       "slug": "lowest-common-ancestor-of-a-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "437",
+       "slug": "path-sum-iii",
+       "premium": false
+      },
+      {
+       "id": "543",
+       "slug": "diameter-of-binary-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Dynamic Programming",
+     "questions": [
+      {
+       "id": "5",
+       "slug": "longest-palindromic-substring",
+       "premium": false
+      },
+      {
+       "id": "32",
+       "slug": "longest-valid-parentheses",
+       "premium": false
+      },
+      {
+       "id": "62",
+       "slug": "unique-paths",
+       "premium": false
+      },
+      {
+       "id": "64",
+       "slug": "minimum-path-sum",
+       "premium": false
+      },
+      {
+       "id": "70",
+       "slug": "climbing-stairs",
+       "premium": false
+      },
+      {
+       "id": "72",
+       "slug": "edit-distance",
+       "premium": false
+      },
+      {
+       "id": "118",
+       "slug": "pascals-triangle",
+       "premium": false
+      },
+      {
+       "id": "139",
+       "slug": "word-break",
+       "premium": false
+      },
+      {
+       "id": "152",
+       "slug": "maximum-product-subarray",
+       "premium": false
+      },
+      {
+       "id": "198",
+       "slug": "house-robber",
+       "premium": false
+      },
+      {
+       "id": "279",
+       "slug": "perfect-squares",
+       "premium": false
+      },
+      {
+       "id": "300",
+       "slug": "longest-increasing-subsequence",
+       "premium": false
+      },
+      {
+       "id": "322",
+       "slug": "coin-change",
+       "premium": false
+      },
+      {
+       "id": "416",
+       "slug": "partition-equal-subset-sum",
+       "premium": false
+      },
+      {
+       "id": "1143",
+       "slug": "longest-common-subsequence",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graph",
+     "questions": [
+      {
+       "id": "200",
+       "slug": "number-of-islands",
+       "premium": false
+      },
+      {
+       "id": "207",
+       "slug": "course-schedule",
+       "premium": false
+      },
+      {
+       "id": "994",
+       "slug": "rotting-oranges",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Greedy",
+     "questions": [
+      {
+       "id": "45",
+       "slug": "jump-game-ii",
+       "premium": false
+      },
+      {
+       "id": "55",
+       "slug": "jump-game",
+       "premium": false
+      },
+      {
+       "id": "121",
+       "slug": "best-time-to-buy-and-sell-stock",
+       "premium": false
+      },
+      {
+       "id": "763",
+       "slug": "partition-labels",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Hashing",
+     "questions": [
+      {
+       "id": "1",
+       "slug": "two-sum",
+       "premium": false
+      },
+      {
+       "id": "49",
+       "slug": "group-anagrams",
+       "premium": false
+      },
+      {
+       "id": "128",
+       "slug": "longest-consecutive-sequence",
+       "premium": false
+      },
+      {
+       "id": "560",
+       "slug": "subarray-sum-equals-k",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Heap",
+     "questions": [
+      {
+       "id": "215",
+       "slug": "kth-largest-element-in-an-array",
+       "premium": false
+      },
+      {
+       "id": "295",
+       "slug": "find-median-from-data-stream",
+       "premium": false
+      },
+      {
+       "id": "347",
+       "slug": "top-k-frequent-elements",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Linked Lists",
+     "questions": [
+      {
+       "id": "2",
+       "slug": "add-two-numbers",
+       "premium": false
+      },
+      {
+       "id": "19",
+       "slug": "remove-nth-node-from-end-of-list",
+       "premium": false
+      },
+      {
+       "id": "21",
+       "slug": "merge-two-sorted-lists",
+       "premium": false
+      },
+      {
+       "id": "23",
+       "slug": "merge-k-sorted-lists",
+       "premium": false
+      },
+      {
+       "id": "24",
+       "slug": "swap-nodes-in-pairs",
+       "premium": false
+      },
+      {
+       "id": "25",
+       "slug": "reverse-nodes-in-k-group",
+       "premium": false
+      },
+      {
+       "id": "138",
+       "slug": "copy-list-with-random-pointer",
+       "premium": false
+      },
+      {
+       "id": "141",
+       "slug": "linked-list-cycle",
+       "premium": false
+      },
+      {
+       "id": "142",
+       "slug": "linked-list-cycle-ii",
+       "premium": false
+      },
+      {
+       "id": "146",
+       "slug": "lru-cache",
+       "premium": false
+      },
+      {
+       "id": "148",
+       "slug": "sort-list",
+       "premium": false
+      },
+      {
+       "id": "160",
+       "slug": "intersection-of-two-linked-lists",
+       "premium": false
+      },
+      {
+       "id": "206",
+       "slug": "reverse-linked-list",
+       "premium": false
+      },
+      {
+       "id": "234",
+       "slug": "palindrome-linked-list",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Matrix",
+     "questions": [
+      {
+       "id": "48",
+       "slug": "rotate-image",
+       "premium": false
+      },
+      {
+       "id": "54",
+       "slug": "spiral-matrix",
+       "premium": false
+      },
+      {
+       "id": "73",
+       "slug": "set-matrix-zeroes",
+       "premium": false
+      },
+      {
+       "id": "240",
+       "slug": "search-a-2d-matrix-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Sliding Window",
+     "questions": [
+      {
+       "id": "3",
+       "slug": "longest-substring-without-repeating-characters",
+       "premium": false
+      },
+      {
+       "id": "76",
+       "slug": "minimum-window-substring",
+       "premium": false
+      },
+      {
+       "id": "239",
+       "slug": "sliding-window-maximum",
+       "premium": false
+      },
+      {
+       "id": "438",
+       "slug": "find-all-anagrams-in-a-string",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Stack",
+     "questions": [
+      {
+       "id": "20",
+       "slug": "valid-parentheses",
+       "premium": false
+      },
+      {
+       "id": "84",
+       "slug": "largest-rectangle-in-histogram",
+       "premium": false
+      },
+      {
+       "id": "155",
+       "slug": "min-stack",
+       "premium": false
+      },
+      {
+       "id": "394",
+       "slug": "decode-string",
+       "premium": false
+      },
+      {
+       "id": "739",
+       "slug": "daily-temperatures",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Two Pointers",
+     "questions": [
+      {
+       "id": "11",
+       "slug": "container-with-most-water",
+       "premium": false
+      },
+      {
+       "id": "15",
+       "slug": "3sum",
+       "premium": false
+      },
+      {
+       "id": "42",
+       "slug": "trapping-rain-water",
+       "premium": false
+      },
+      {
+       "id": "283",
+       "slug": "move-zeroes",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Trie",
+     "questions": [
+      {
+       "id": "208",
+       "slug": "implement-trie-prefix-tree",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Misc",
+     "questions": [
+      {
+       "id": "31",
+       "slug": "next-permutation",
+       "premium": false
+      },
+      {
+       "id": "41",
+       "slug": "first-missing-positive",
+       "premium": false
+      },
+      {
+       "id": "53",
+       "slug": "maximum-subarray",
+       "premium": false
+      },
+      {
+       "id": "56",
+       "slug": "merge-intervals",
+       "premium": false
+      },
+      {
+       "id": "75",
+       "slug": "sort-colors",
+       "premium": false
+      },
+      {
+       "id": "136",
+       "slug": "single-number",
+       "premium": false
+      },
+      {
+       "id": "169",
+       "slug": "majority-element",
+       "premium": false
+      },
+      {
+       "id": "189",
+       "slug": "rotate-array",
+       "premium": false
+      },
+      {
+       "id": "238",
+       "slug": "product-of-array-except-self",
+       "premium": false
+      },
+      {
+       "id": "287",
+       "slug": "find-the-duplicate-number",
+       "premium": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "programming-skills",
+   "name": "Programming Skills",
+   "badge": "Programming Skills",
+   "premiumPlan": false,
+   "partial": true,
+   "questionCount": 33,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Basic Implementation",
+     "questions": [
+      {
+       "id": "1768",
+       "slug": "merge-strings-alternately",
+       "premium": false
+      },
+      {
+       "id": "389",
+       "slug": "find-the-difference",
+       "premium": false
+      },
+      {
+       "id": "28",
+       "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+       "premium": false
+      },
+      {
+       "id": "242",
+       "slug": "valid-anagram",
+       "premium": false
+      },
+      {
+       "id": "459",
+       "slug": "repeated-substring-pattern",
+       "premium": false
+      },
+      {
+       "id": "283",
+       "slug": "move-zeroes",
+       "premium": false
+      },
+      {
+       "id": "66",
+       "slug": "plus-one",
+       "premium": false
+      },
+      {
+       "id": "1822",
+       "slug": "sign-of-the-product-of-an-array",
+       "premium": false
+      },
+      {
+       "id": "1502",
+       "slug": "can-make-arithmetic-progression-from-sequence",
+       "premium": false
+      },
+      {
+       "id": "896",
+       "slug": "monotonic-array",
+       "premium": false
+      },
+      {
+       "id": "13",
+       "slug": "roman-to-integer",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Built-In Functions",
+     "questions": [
+      {
+       "id": "58",
+       "slug": "length-of-last-word",
+       "premium": false
+      },
+      {
+       "id": "709",
+       "slug": "to-lower-case",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Simulation",
+     "questions": [
+      {
+       "id": "682",
+       "slug": "baseball-game",
+       "premium": false
+      },
+      {
+       "id": "657",
+       "slug": "robot-return-to-origin",
+       "premium": false
+      },
+      {
+       "id": "1275",
+       "slug": "find-winner-on-a-tic-tac-toe-game",
+       "premium": false
+      },
+      {
+       "id": "1041",
+       "slug": "robot-bounded-in-circle",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Matrix",
+     "questions": [
+      {
+       "id": "1672",
+       "slug": "richest-customer-wealth",
+       "premium": false
+      },
+      {
+       "id": "1572",
+       "slug": "matrix-diagonal-sum",
+       "premium": false
+      },
+      {
+       "id": "54",
+       "slug": "spiral-matrix",
+       "premium": false
+      },
+      {
+       "id": "73",
+       "slug": "set-matrix-zeroes",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Math",
+     "questions": [
+      {
+       "id": "1523",
+       "slug": "count-odd-numbers-in-an-interval-range",
+       "premium": false
+      },
+      {
+       "id": "1491",
+       "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+       "premium": false
+      },
+      {
+       "id": "860",
+       "slug": "lemonade-change",
+       "premium": false
+      },
+      {
+       "id": "976",
+       "slug": "largest-perimeter-triangle",
+       "premium": false
+      },
+      {
+       "id": "1232",
+       "slug": "check-if-it-is-a-straight-line",
+       "premium": false
+      },
+      {
+       "id": "67",
+       "slug": "add-binary",
+       "premium": false
+      },
+      {
+       "id": "43",
+       "slug": "multiply-strings",
+       "premium": false
+      },
+      {
+       "id": "50",
+       "slug": "powx-n",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Linked List",
+     "questions": [
+      {
+       "id": "21",
+       "slug": "merge-two-sorted-lists",
+       "premium": false
+      },
+      {
+       "id": "206",
+       "slug": "reverse-linked-list",
+       "premium": false
+      },
+      {
+       "id": "2",
+       "slug": "add-two-numbers",
+       "premium": false
+      },
+      {
+       "id": "445",
+       "slug": "add-two-numbers-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Binary Tree",
+     "questions": []
+    },
+    {
+     "name": "Design",
+     "questions": []
+    },
+    {
+     "name": "Tricky Implementation",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "slug": "dynamic-programming",
+   "name": "Dynamic Programming",
+   "badge": "Dynamic Programming",
+   "premiumPlan": false,
+   "partial": true,
+   "questionCount": 46,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Fibonacci style",
+     "questions": [
+      {
+       "id": "70",
+       "slug": "climbing-stairs",
+       "premium": false
+      },
+      {
+       "id": "509",
+       "slug": "fibonacci-number",
+       "premium": false
+      },
+      {
+       "id": "1137",
+       "slug": "n-th-tribonacci-number",
+       "premium": false
+      },
+      {
+       "id": "746",
+       "slug": "min-cost-climbing-stairs",
+       "premium": false
+      },
+      {
+       "id": "198",
+       "slug": "house-robber",
+       "premium": false
+      },
+      {
+       "id": "740",
+       "slug": "delete-and-earn",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Matrix",
+     "questions": [
+      {
+       "id": "62",
+       "slug": "unique-paths",
+       "premium": false
+      },
+      {
+       "id": "64",
+       "slug": "minimum-path-sum",
+       "premium": false
+      },
+      {
+       "id": "63",
+       "slug": "unique-paths-ii",
+       "premium": false
+      },
+      {
+       "id": "120",
+       "slug": "triangle",
+       "premium": false
+      },
+      {
+       "id": "931",
+       "slug": "minimum-falling-path-sum",
+       "premium": false
+      },
+      {
+       "id": "221",
+       "slug": "maximal-square",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "On Strings",
+     "questions": [
+      {
+       "id": "5",
+       "slug": "longest-palindromic-substring",
+       "premium": false
+      },
+      {
+       "id": "139",
+       "slug": "word-break",
+       "premium": false
+      },
+      {
+       "id": "516",
+       "slug": "longest-palindromic-subsequence",
+       "premium": false
+      },
+      {
+       "id": "72",
+       "slug": "edit-distance",
+       "premium": false
+      },
+      {
+       "id": "712",
+       "slug": "minimum-ascii-delete-sum-for-two-strings",
+       "premium": false
+      },
+      {
+       "id": "115",
+       "slug": "distinct-subsequences",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Longest Increasing Subsequence",
+     "questions": [
+      {
+       "id": "300",
+       "slug": "longest-increasing-subsequence",
+       "premium": false
+      },
+      {
+       "id": "673",
+       "slug": "number-of-longest-increasing-subsequence",
+       "premium": false
+      },
+      {
+       "id": "646",
+       "slug": "maximum-length-of-pair-chain",
+       "premium": false
+      },
+      {
+       "id": "1218",
+       "slug": "longest-arithmetic-subsequence-of-given-difference",
+       "premium": false
+      },
+      {
+       "id": "1027",
+       "slug": "longest-arithmetic-subsequence",
+       "premium": false
+      },
+      {
+       "id": "354",
+       "slug": "russian-doll-envelopes",
+       "premium": false
+      },
+      {
+       "id": "1964",
+       "slug": "find-the-longest-valid-obstacle-course-at-each-position",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Longest Common Subsequence",
+     "questions": [
+      {
+       "id": "1143",
+       "slug": "longest-common-subsequence",
+       "premium": false
+      },
+      {
+       "id": "1035",
+       "slug": "uncrossed-lines",
+       "premium": false
+      },
+      {
+       "id": "1312",
+       "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Best Time to Buy & Sell Stock / State Machine",
+     "questions": [
+      {
+       "id": "309",
+       "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+       "premium": false
+      },
+      {
+       "id": "714",
+       "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+       "premium": false
+      },
+      {
+       "id": "123",
+       "slug": "best-time-to-buy-and-sell-stock-iii",
+       "premium": false
+      },
+      {
+       "id": "188",
+       "slug": "best-time-to-buy-and-sell-stock-iv",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "On Trees",
+     "questions": [
+      {
+       "id": "96",
+       "slug": "unique-binary-search-trees",
+       "premium": false
+      },
+      {
+       "id": "95",
+       "slug": "unique-binary-search-trees-ii",
+       "premium": false
+      },
+      {
+       "id": "337",
+       "slug": "house-robber-iii",
+       "premium": false
+      },
+      {
+       "id": "124",
+       "slug": "binary-tree-maximum-path-sum",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Knapsack",
+     "questions": [
+      {
+       "id": "279",
+       "slug": "perfect-squares",
+       "premium": false
+      },
+      {
+       "id": "518",
+       "slug": "coin-change-ii",
+       "premium": false
+      },
+      {
+       "id": "377",
+       "slug": "combination-sum-iv",
+       "premium": false
+      },
+      {
+       "id": "474",
+       "slug": "ones-and-zeroes",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "General 1D",
+     "questions": [
+      {
+       "id": "2140",
+       "slug": "solving-questions-with-brainpower",
+       "premium": false
+      },
+      {
+       "id": "322",
+       "slug": "coin-change",
+       "premium": false
+      },
+      {
+       "id": "2466",
+       "slug": "count-ways-to-build-good-strings",
+       "premium": false
+      },
+      {
+       "id": "91",
+       "slug": "decode-ways",
+       "premium": false
+      },
+      {
+       "id": "983",
+       "slug": "minimum-cost-for-tickets",
+       "premium": false
+      },
+      {
+       "id": "790",
+       "slug": "domino-and-tromino-tiling",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "General Multidimensional",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "slug": "30-days-of-javascript",
+   "name": "30 Days of JavaScript",
+   "badge": "30 Days of JavaScript",
+   "premiumPlan": false,
+   "partial": true,
+   "questionCount": 30,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Closures",
+     "questions": [
+      {
+       "id": "2667",
+       "slug": "create-hello-world-function",
+       "premium": false
+      },
+      {
+       "id": "2620",
+       "slug": "counter",
+       "premium": false
+      },
+      {
+       "id": "2704",
+       "slug": "to-be-or-not-to-be",
+       "premium": false
+      },
+      {
+       "id": "2665",
+       "slug": "counter-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Basic Array Transformations",
+     "questions": [
+      {
+       "id": "2635",
+       "slug": "apply-transform-over-each-element-in-array",
+       "premium": false
+      },
+      {
+       "id": "2634",
+       "slug": "filter-elements-from-array",
+       "premium": false
+      },
+      {
+       "id": "2626",
+       "slug": "array-reduce-transformation",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Function Transformations",
+     "questions": [
+      {
+       "id": "2629",
+       "slug": "function-composition",
+       "premium": false
+      },
+      {
+       "id": "2703",
+       "slug": "return-length-of-arguments-passed",
+       "premium": false
+      },
+      {
+       "id": "2666",
+       "slug": "allow-one-function-call",
+       "premium": false
+      },
+      {
+       "id": "2623",
+       "slug": "memoize",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Promises and Time",
+     "questions": [
+      {
+       "id": "2723",
+       "slug": "add-two-promises",
+       "premium": false
+      },
+      {
+       "id": "2621",
+       "slug": "sleep",
+       "premium": false
+      },
+      {
+       "id": "2715",
+       "slug": "timeout-cancellation",
+       "premium": false
+      },
+      {
+       "id": "2725",
+       "slug": "interval-cancellation",
+       "premium": false
+      },
+      {
+       "id": "2637",
+       "slug": "promise-time-limit",
+       "premium": false
+      },
+      {
+       "id": "2622",
+       "slug": "cache-with-time-limit",
+       "premium": false
+      },
+      {
+       "id": "2627",
+       "slug": "debounce",
+       "premium": false
+      },
+      {
+       "id": "2721",
+       "slug": "execute-asynchronous-functions-in-parallel",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "JSON",
+     "questions": [
+      {
+       "id": "2727",
+       "slug": "is-object-empty",
+       "premium": false
+      },
+      {
+       "id": "2677",
+       "slug": "chunk-array",
+       "premium": false
+      },
+      {
+       "id": "2619",
+       "slug": "array-prototype-last",
+       "premium": false
+      },
+      {
+       "id": "2631",
+       "slug": "group-by",
+       "premium": false
+      },
+      {
+       "id": "2724",
+       "slug": "sort-by",
+       "premium": false
+      },
+      {
+       "id": "2722",
+       "slug": "join-two-arrays-by-id",
+       "premium": false
+      },
+      {
+       "id": "2625",
+       "slug": "flatten-deeply-nested-array",
+       "premium": false
+      },
+      {
+       "id": "2705",
+       "slug": "compact-object",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Classes",
+     "questions": [
+      {
+       "id": "2694",
+       "slug": "event-emitter",
+       "premium": false
+      },
+      {
+       "id": "2695",
+       "slug": "array-wrapper",
+       "premium": false
+      },
+      {
+       "id": "2726",
+       "slug": "calculator-with-method-chaining",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Summarize Your 30-day Journey with Bonus Challenges!",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "slug": "top-sql-50",
+   "name": "SQL 50",
+   "badge": "SQL 50",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 50,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Select",
+     "questions": [
+      {
+       "id": "1757",
+       "slug": "recyclable-and-low-fat-products",
+       "premium": false
+      },
+      {
+       "id": "584",
+       "slug": "find-customer-referee",
+       "premium": false
+      },
+      {
+       "id": "595",
+       "slug": "big-countries",
+       "premium": false
+      },
+      {
+       "id": "1148",
+       "slug": "article-views-i",
+       "premium": false
+      },
+      {
+       "id": "1683",
+       "slug": "invalid-tweets",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Basic Joins",
+     "questions": [
+      {
+       "id": "1378",
+       "slug": "replace-employee-id-with-the-unique-identifier",
+       "premium": false
+      },
+      {
+       "id": "1068",
+       "slug": "product-sales-analysis-i",
+       "premium": false
+      },
+      {
+       "id": "1581",
+       "slug": "customer-who-visited-but-did-not-make-any-transactions",
+       "premium": false
+      },
+      {
+       "id": "197",
+       "slug": "rising-temperature",
+       "premium": false
+      },
+      {
+       "id": "1661",
+       "slug": "average-time-of-process-per-machine",
+       "premium": false
+      },
+      {
+       "id": "577",
+       "slug": "employee-bonus",
+       "premium": false
+      },
+      {
+       "id": "1280",
+       "slug": "students-and-examinations",
+       "premium": false
+      },
+      {
+       "id": "570",
+       "slug": "managers-with-at-least-5-direct-reports",
+       "premium": false
+      },
+      {
+       "id": "1934",
+       "slug": "confirmation-rate",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Basic Aggregate Functions",
+     "questions": [
+      {
+       "id": "620",
+       "slug": "not-boring-movies",
+       "premium": false
+      },
+      {
+       "id": "1251",
+       "slug": "average-selling-price",
+       "premium": false
+      },
+      {
+       "id": "1075",
+       "slug": "project-employees-i",
+       "premium": false
+      },
+      {
+       "id": "1633",
+       "slug": "percentage-of-users-attended-a-contest",
+       "premium": false
+      },
+      {
+       "id": "1211",
+       "slug": "queries-quality-and-percentage",
+       "premium": false
+      },
+      {
+       "id": "1193",
+       "slug": "monthly-transactions-i",
+       "premium": false
+      },
+      {
+       "id": "1174",
+       "slug": "immediate-food-delivery-ii",
+       "premium": false
+      },
+      {
+       "id": "550",
+       "slug": "game-play-analysis-iv",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Sorting and Grouping",
+     "questions": [
+      {
+       "id": "2356",
+       "slug": "number-of-unique-subjects-taught-by-each-teacher",
+       "premium": false
+      },
+      {
+       "id": "1141",
+       "slug": "user-activity-for-the-past-30-days-i",
+       "premium": false
+      },
+      {
+       "id": "1070",
+       "slug": "product-sales-analysis-iii",
+       "premium": false
+      },
+      {
+       "id": "596",
+       "slug": "classes-with-at-least-5-students",
+       "premium": false
+      },
+      {
+       "id": "1729",
+       "slug": "find-followers-count",
+       "premium": false
+      },
+      {
+       "id": "619",
+       "slug": "biggest-single-number",
+       "premium": false
+      },
+      {
+       "id": "1045",
+       "slug": "customers-who-bought-all-products",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Advanced Select and Joins",
+     "questions": [
+      {
+       "id": "1731",
+       "slug": "the-number-of-employees-which-report-to-each-employee",
+       "premium": false
+      },
+      {
+       "id": "1789",
+       "slug": "primary-department-for-each-employee",
+       "premium": false
+      },
+      {
+       "id": "610",
+       "slug": "triangle-judgement",
+       "premium": false
+      },
+      {
+       "id": "180",
+       "slug": "consecutive-numbers",
+       "premium": false
+      },
+      {
+       "id": "1164",
+       "slug": "product-price-at-a-given-date",
+       "premium": false
+      },
+      {
+       "id": "1204",
+       "slug": "last-person-to-fit-in-the-bus",
+       "premium": false
+      },
+      {
+       "id": "1907",
+       "slug": "count-salary-categories",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Subqueries",
+     "questions": [
+      {
+       "id": "1978",
+       "slug": "employees-whose-manager-left-the-company",
+       "premium": false
+      },
+      {
+       "id": "626",
+       "slug": "exchange-seats",
+       "premium": false
+      },
+      {
+       "id": "1341",
+       "slug": "movie-rating",
+       "premium": false
+      },
+      {
+       "id": "1321",
+       "slug": "restaurant-growth",
+       "premium": false
+      },
+      {
+       "id": "602",
+       "slug": "friend-requests-ii-who-has-the-most-friends",
+       "premium": false
+      },
+      {
+       "id": "585",
+       "slug": "investments-in-2016",
+       "premium": false
+      },
+      {
+       "id": "185",
+       "slug": "department-top-three-salaries",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Advanced String Functions / Regex / Clause",
+     "questions": [
+      {
+       "id": "1667",
+       "slug": "fix-names-in-a-table",
+       "premium": false
+      },
+      {
+       "id": "1527",
+       "slug": "patients-with-a-condition",
+       "premium": false
+      },
+      {
+       "id": "196",
+       "slug": "delete-duplicate-emails",
+       "premium": false
+      },
+      {
+       "id": "176",
+       "slug": "second-highest-salary",
+       "premium": false
+      },
+      {
+       "id": "1484",
+       "slug": "group-sold-products-by-the-date",
+       "premium": false
+      },
+      {
+       "id": "1327",
+       "slug": "list-the-products-ordered-in-a-period",
+       "premium": false
+      },
+      {
+       "id": "1517",
+       "slug": "find-users-with-valid-e-mails",
+       "premium": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "introduction-to-pandas",
+   "name": "Introduction to Pandas",
+   "badge": "Introduction to Pandas",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 15,
+   "premiumQuestions": [],
+   "groups": [
+    {
+     "name": "Pandas Data Structures",
+     "questions": [
+      {
+       "id": "2877",
+       "slug": "create-a-dataframe-from-list",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Data Inspection",
+     "questions": [
+      {
+       "id": "2878",
+       "slug": "get-the-size-of-a-dataframe",
+       "premium": false
+      },
+      {
+       "id": "2879",
+       "slug": "display-the-first-three-rows",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Data Selecting",
+     "questions": [
+      {
+       "id": "2880",
+       "slug": "select-data",
+       "premium": false
+      },
+      {
+       "id": "2881",
+       "slug": "create-a-new-column",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Data Cleaning",
+     "questions": [
+      {
+       "id": "2882",
+       "slug": "drop-duplicate-rows",
+       "premium": false
+      },
+      {
+       "id": "2883",
+       "slug": "drop-missing-data",
+       "premium": false
+      },
+      {
+       "id": "2884",
+       "slug": "modify-columns",
+       "premium": false
+      },
+      {
+       "id": "2885",
+       "slug": "rename-columns",
+       "premium": false
+      },
+      {
+       "id": "2886",
+       "slug": "change-data-type",
+       "premium": false
+      },
+      {
+       "id": "2887",
+       "slug": "fill-missing-data",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Table Reshaping",
+     "questions": [
+      {
+       "id": "2888",
+       "slug": "reshape-data-concatenate",
+       "premium": false
+      },
+      {
+       "id": "2889",
+       "slug": "reshape-data-pivot",
+       "premium": false
+      },
+      {
+       "id": "2890",
+       "slug": "reshape-data-melt",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Advanced Techniques",
+     "questions": [
+      {
+       "id": "2891",
+       "slug": "method-chaining",
+       "premium": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "binary-search",
+   "name": "Binary Search",
+   "badge": "Binary Search",
+   "premiumPlan": false,
+   "partial": true,
+   "questionCount": 32,
+   "premiumQuestions": [
+    "702",
+    "1533",
+    "1099"
+   ],
+   "groups": [
+    {
+     "name": "Search In Array",
+     "questions": [
+      {
+       "id": "704",
+       "slug": "binary-search",
+       "premium": false
+      },
+      {
+       "id": "35",
+       "slug": "search-insert-position",
+       "premium": false
+      },
+      {
+       "id": "744",
+       "slug": "find-smallest-letter-greater-than-target",
+       "premium": false
+      },
+      {
+       "id": "1351",
+       "slug": "count-negative-numbers-in-a-sorted-matrix",
+       "premium": false
+      },
+      {
+       "id": "34",
+       "slug": "find-first-and-last-position-of-element-in-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "436",
+       "slug": "find-right-interval",
+       "premium": false
+      },
+      {
+       "id": "981",
+       "slug": "time-based-key-value-store",
+       "premium": false
+      },
+      {
+       "id": "1146",
+       "slug": "snapshot-array",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Rotated Array",
+     "questions": [
+      {
+       "id": "33",
+       "slug": "search-in-rotated-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "153",
+       "slug": "find-minimum-in-rotated-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "154",
+       "slug": "find-minimum-in-rotated-sorted-array-ii",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Standard Search",
+     "questions": [
+      {
+       "id": "374",
+       "slug": "guess-number-higher-or-lower",
+       "premium": false
+      },
+      {
+       "id": "278",
+       "slug": "first-bad-version",
+       "premium": false
+      },
+      {
+       "id": "74",
+       "slug": "search-a-2d-matrix",
+       "premium": false
+      },
+      {
+       "id": "702",
+       "slug": "search-in-a-sorted-array-of-unknown-size",
+       "premium": true
+      },
+      {
+       "id": "1533",
+       "slug": "find-the-index-of-the-large-integer",
+       "premium": true
+      }
+     ]
+    },
+    {
+     "name": "Math",
+     "questions": [
+      {
+       "id": "367",
+       "slug": "valid-perfect-square",
+       "premium": false
+      },
+      {
+       "id": "69",
+       "slug": "sqrtx",
+       "premium": false
+      },
+      {
+       "id": "441",
+       "slug": "arranging-coins",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Tricky Invariant",
+     "questions": [
+      {
+       "id": "1539",
+       "slug": "kth-missing-positive-number",
+       "premium": false
+      },
+      {
+       "id": "275",
+       "slug": "h-index-ii",
+       "premium": false
+      },
+      {
+       "id": "540",
+       "slug": "single-element-in-a-sorted-array",
+       "premium": false
+      },
+      {
+       "id": "852",
+       "slug": "peak-index-in-a-mountain-array",
+       "premium": false
+      },
+      {
+       "id": "658",
+       "slug": "find-k-closest-elements",
+       "premium": false
+      },
+      {
+       "id": "4",
+       "slug": "median-of-two-sorted-arrays",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "As A Tool",
+     "questions": [
+      {
+       "id": "1099",
+       "slug": "two-sum-less-than-k",
+       "premium": true
+      },
+      {
+       "id": "611",
+       "slug": "valid-triangle-number",
+       "premium": false
+      },
+      {
+       "id": "2300",
+       "slug": "successful-pairs-of-spells-and-potions",
+       "premium": false
+      },
+      {
+       "id": "1498",
+       "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+       "premium": false
+      },
+      {
+       "id": "528",
+       "slug": "random-pick-with-weight",
+       "premium": false
+      },
+      {
+       "id": "300",
+       "slug": "longest-increasing-subsequence",
+       "premium": false
+      },
+      {
+       "id": "354",
+       "slug": "russian-doll-envelopes",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "On Solution Space",
+     "questions": []
+    },
+    {
+     "name": "With Dynamic Programming",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "slug": "graph-theory",
+   "name": "Graph Theory",
+   "badge": "Graph Theory",
+   "premiumPlan": false,
+   "partial": true,
+   "questionCount": 36,
+   "premiumQuestions": [
+    "261",
+    "269"
+   ],
+   "groups": [
+    {
+     "name": "Standard Traversal",
+     "questions": [
+      {
+       "id": "547",
+       "slug": "number-of-provinces",
+       "premium": false
+      },
+      {
+       "id": "802",
+       "slug": "find-eventual-safe-states",
+       "premium": false
+      },
+      {
+       "id": "841",
+       "slug": "keys-and-rooms",
+       "premium": false
+      },
+      {
+       "id": "1129",
+       "slug": "shortest-path-with-alternating-colors",
+       "premium": false
+      },
+      {
+       "id": "1376",
+       "slug": "time-needed-to-inform-all-employees",
+       "premium": false
+      },
+      {
+       "id": "1466",
+       "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+       "premium": false
+      },
+      {
+       "id": "797",
+       "slug": "all-paths-from-source-to-target",
+       "premium": false
+      },
+      {
+       "id": "1192",
+       "slug": "critical-connections-in-a-network",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "BFS",
+     "questions": [
+      {
+       "id": "1926",
+       "slug": "nearest-exit-from-entrance-in-maze",
+       "premium": false
+      },
+      {
+       "id": "934",
+       "slug": "shortest-bridge",
+       "premium": false
+      },
+      {
+       "id": "433",
+       "slug": "minimum-genetic-mutation",
+       "premium": false
+      },
+      {
+       "id": "127",
+       "slug": "word-ladder",
+       "premium": false
+      },
+      {
+       "id": "1306",
+       "slug": "jump-game-iii",
+       "premium": false
+      },
+      {
+       "id": "542",
+       "slug": "01-matrix",
+       "premium": false
+      },
+      {
+       "id": "1091",
+       "slug": "shortest-path-in-binary-matrix",
+       "premium": false
+      },
+      {
+       "id": "863",
+       "slug": "all-nodes-distance-k-in-binary-tree",
+       "premium": false
+      },
+      {
+       "id": "864",
+       "slug": "shortest-path-to-get-all-keys",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Matrix Graphs",
+     "questions": [
+      {
+       "id": "200",
+       "slug": "number-of-islands",
+       "premium": false
+      },
+      {
+       "id": "1020",
+       "slug": "number-of-enclaves",
+       "premium": false
+      },
+      {
+       "id": "1254",
+       "slug": "number-of-closed-islands",
+       "premium": false
+      },
+      {
+       "id": "695",
+       "slug": "max-area-of-island",
+       "premium": false
+      },
+      {
+       "id": "417",
+       "slug": "pacific-atlantic-water-flow",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Graph Theory",
+     "questions": [
+      {
+       "id": "997",
+       "slug": "find-the-town-judge",
+       "premium": false
+      },
+      {
+       "id": "1557",
+       "slug": "minimum-number-of-vertices-to-reach-all-nodes",
+       "premium": false
+      },
+      {
+       "id": "1615",
+       "slug": "maximal-network-rank",
+       "premium": false
+      },
+      {
+       "id": "785",
+       "slug": "is-graph-bipartite",
+       "premium": false
+      },
+      {
+       "id": "261",
+       "slug": "graph-valid-tree",
+       "premium": true
+      }
+     ]
+    },
+    {
+     "name": "Union Find / DSU",
+     "questions": [
+      {
+       "id": "721",
+       "slug": "accounts-merge",
+       "premium": false
+      },
+      {
+       "id": "990",
+       "slug": "satisfiability-of-equality-equations",
+       "premium": false
+      },
+      {
+       "id": "1061",
+       "slug": "lexicographically-smallest-equivalent-string",
+       "premium": false
+      },
+      {
+       "id": "839",
+       "slug": "similar-string-groups",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Topological Sort",
+     "questions": [
+      {
+       "id": "207",
+       "slug": "course-schedule",
+       "premium": false
+      },
+      {
+       "id": "210",
+       "slug": "course-schedule-ii",
+       "premium": false
+      },
+      {
+       "id": "269",
+       "slug": "alien-dictionary",
+       "premium": true
+      },
+      {
+       "id": "1203",
+       "slug": "sort-items-by-groups-respecting-dependencies",
+       "premium": false
+      },
+      {
+       "id": "1857",
+       "slug": "largest-color-value-in-a-directed-graph",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Dijkstra's",
+     "questions": []
+    },
+    {
+     "name": "Minimum Spanning Tree",
+     "questions": []
+    }
+   ]
+  },
+  {
+   "slug": "30-days-of-pandas",
+   "name": "30 Days of Pandas",
+   "badge": "30 Days of Pandas",
+   "premiumPlan": false,
+   "partial": false,
+   "questionCount": 33,
+   "premiumQuestions": [
+    "2738",
+    "2082",
+    "1173",
+    "1322",
+    "2041"
+   ],
+   "groups": [
+    {
+     "name": "Data Filtering",
+     "questions": [
+      {
+       "id": "595",
+       "slug": "big-countries",
+       "premium": false
+      },
+      {
+       "id": "1757",
+       "slug": "recyclable-and-low-fat-products",
+       "premium": false
+      },
+      {
+       "id": "183",
+       "slug": "customers-who-never-order",
+       "premium": false
+      },
+      {
+       "id": "1148",
+       "slug": "article-views-i",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "String Methods",
+     "questions": [
+      {
+       "id": "1683",
+       "slug": "invalid-tweets",
+       "premium": false
+      },
+      {
+       "id": "1873",
+       "slug": "calculate-special-bonus",
+       "premium": false
+      },
+      {
+       "id": "1667",
+       "slug": "fix-names-in-a-table",
+       "premium": false
+      },
+      {
+       "id": "1517",
+       "slug": "find-users-with-valid-e-mails",
+       "premium": false
+      },
+      {
+       "id": "1527",
+       "slug": "patients-with-a-condition",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Strengthen Your Learning by Solving this Question",
+     "questions": [
+      {
+       "id": "2738",
+       "slug": "count-occurrences-in-text",
+       "premium": true
+      }
+     ]
+    },
+    {
+     "name": "Data Manipulation",
+     "questions": [
+      {
+       "id": "177",
+       "slug": "nth-highest-salary",
+       "premium": false
+      },
+      {
+       "id": "176",
+       "slug": "second-highest-salary",
+       "premium": false
+      },
+      {
+       "id": "184",
+       "slug": "department-highest-salary",
+       "premium": false
+      },
+      {
+       "id": "178",
+       "slug": "rank-scores",
+       "premium": false
+      },
+      {
+       "id": "196",
+       "slug": "delete-duplicate-emails",
+       "premium": false
+      },
+      {
+       "id": "1795",
+       "slug": "rearrange-products-table",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Statistics",
+     "questions": [
+      {
+       "id": "2082",
+       "slug": "the-number-of-rich-customers",
+       "premium": true
+      },
+      {
+       "id": "1173",
+       "slug": "immediate-food-delivery-i",
+       "premium": true
+      },
+      {
+       "id": "1907",
+       "slug": "count-salary-categories",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Strengthen Your Learning by Solving this Question",
+     "questions": [
+      {
+       "id": "1322",
+       "slug": "ads-performance",
+       "premium": true
+      }
+     ]
+    },
+    {
+     "name": "Data Aggregation",
+     "questions": [
+      {
+       "id": "1741",
+       "slug": "find-total-time-spent-by-each-employee",
+       "premium": false
+      },
+      {
+       "id": "511",
+       "slug": "game-play-analysis-i",
+       "premium": false
+      },
+      {
+       "id": "2356",
+       "slug": "number-of-unique-subjects-taught-by-each-teacher",
+       "premium": false
+      },
+      {
+       "id": "596",
+       "slug": "classes-with-at-least-5-students",
+       "premium": false
+      },
+      {
+       "id": "586",
+       "slug": "customer-placing-the-largest-number-of-orders",
+       "premium": false
+      },
+      {
+       "id": "1484",
+       "slug": "group-sold-products-by-the-date",
+       "premium": false
+      },
+      {
+       "id": "1693",
+       "slug": "daily-leads-and-partners",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Data Integration",
+     "questions": [
+      {
+       "id": "1050",
+       "slug": "actors-and-directors-who-cooperated-at-least-three-times",
+       "premium": false
+      },
+      {
+       "id": "1378",
+       "slug": "replace-employee-id-with-the-unique-identifier",
+       "premium": false
+      },
+      {
+       "id": "1280",
+       "slug": "students-and-examinations",
+       "premium": false
+      },
+      {
+       "id": "570",
+       "slug": "managers-with-at-least-5-direct-reports",
+       "premium": false
+      },
+      {
+       "id": "607",
+       "slug": "sales-person",
+       "premium": false
+      }
+     ]
+    },
+    {
+     "name": "Strengthen Your Learning by Solving this Question",
+     "questions": [
+      {
+       "id": "2041",
+       "slug": "accepted-candidates-from-the-interviews",
+       "premium": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "dynamic-programming-grandmaster",
+   "name": "Dynamic Programming Grandmaster",
+   "badge": "DP Grandmaster",
+   "premiumPlan": true,
+   "partial": false,
+   "questionCount": 0,
+   "premiumQuestions": [],
+   "groups": []
+  },
+  {
+   "slug": "premium-algo-100",
+   "name": "Premium Algo 100",
+   "badge": "Premium Algo 100",
+   "premiumPlan": true,
+   "partial": false,
+   "questionCount": 0,
+   "premiumQuestions": [],
+   "groups": []
+  }
+ ]
+}

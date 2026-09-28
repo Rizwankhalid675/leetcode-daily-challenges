@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert');
 const { averageOfSubtree } = require('./solution');
-const { buildTree } = require('../../../../tests/helpers/tree');
+const { buildTree } = require('../../../tests/helpers/tree');
 
 test('official examples', () => {
   assert.strictEqual(averageOfSubtree(buildTree([4, 8, 5, 0, 1, null, 6])), 5);

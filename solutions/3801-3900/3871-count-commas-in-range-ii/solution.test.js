@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert');
 const { countCommas } = require('./solution');
-const { countCommas: linear } = require('../08-3870-count-commas-in-range/solution');
+const { countCommas: linear } = require('../3870-count-commas-in-range/solution');
 
 test('official examples', () => {
   assert.strictEqual(countCommas(1002), 3);

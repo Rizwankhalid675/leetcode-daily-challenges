@@ -1,73 +1,71 @@
-# LeetCode Daily Challenges: September 2026
+# LeetCode: complete-problem-set learning project
 
-A documented, **AI-assisted** study project covering all 28 LeetCode Daily Challenge problems from
-September 1–28, 2026, solved in JavaScript. Each problem has a solution, local tests (most cross-checked against an
-independent brute force), and a notes file explaining the reasoning, complexity and reusable pattern.
+A long-term, **AI-assisted** project working through every LeetCode problem accessible to my account, in
+JavaScript where the platform allows it. Each solved problem has a solution, local tests, and study notes. Progress is
+tracked against LeetCode's live problem catalog, not a fixed number.
 
-> **Transparency note.** The solutions, tests and notes in this repository were written by an AI coding assistant
-> (Claude) and submitted to LeetCode on my account as a structured learning exercise that I directed and reviewed.
-> They are **not** evidence that I independently solved these 28 problems. The goal is a study reference for me to
-> learn from and revisit, and the notes are written to teach the underlying ideas rather than just show answers.
+> **Transparency note.** The solutions, tests and notes in this repository are written by an AI coding assistant
+> (Claude) and submitted to LeetCode on my account, as a structured learning exercise that I direct and review. They
+> are **not** evidence that I independently solved these problems. The purpose is a well-documented study reference
+> that I work through myself.
 
-## Results (as reported by LeetCode)
+## Where things stand
 
-| | |
-|---|---|
-| Problems accepted | **28 / 28** (Easy 8 · Medium 13 · Hard 7) |
-| Submissions | 28 (every problem accepted on its first submission) |
-| Counted as a Daily Challenge | **1**: Sept 28 (#1614), solved inside its daily window |
-| Solved after their daily window | 27 (Sept 1–27). They count as solved problems, but their Daily Challenge calendar days remain missed. |
-| LeetCode streak | 1 day |
-| Badges earned | None. The September monthly badge was not attainable (27 days had already passed). |
+The live numbers are in **[progress/STATUS.md](progress/STATUS.md)**, generated from recorded LeetCode results and
+the latest catalog sync. Nothing in this README is updated by hand.
 
-The full per-problem table with LeetCode submission results is in [progress/STATUS.md](progress/STATUS.md)
-(generated from [progress/results.json](progress/results.json)).
+- **[progress/INDEX.md](progress/INDEX.md)**: every solved problem with difficulty, topics, LeetCode result, date
+  and complexity.
+- **[progress/tracker.json](progress/tracker.json)**: the same data, machine-readable (totals, per difficulty,
+  per category, topic coverage, study-plan progress, account snapshot, badges).
+- **[progress/badges.json](progress/badges.json)**: LeetCode badge and GitHub achievement tracker. Requirements
+  are marked verified only when read from the site itself.
+
+## Phase 1: September 2026 Daily Challenges (complete)
+
+All 28 September 1–28, 2026 Daily Challenge problems were accepted on LeetCode. Only Sept 28 was solved inside its
+daily window; the other 27 were solved afterwards and count as solved problems, not completed Daily Challenges.
+- Study guide PDF: [docs/september-2026-study-guide.pdf](docs/september-2026-study-guide.pdf)
+- Patterns across that set: [docs/patterns/README.md](docs/patterns/README.md)
+
+## Phase 2: full problem set (in progress)
+
+The order of work is in [docs/CURRICULUM.md](docs/CURRICULUM.md): the daily challenge first each day, then study
+plans that award badges, then fundamentals by topic, then everything else until every accessible problem is covered.
+
+Not every accessible problem can be solved in JavaScript. LeetCode offers only SQL/Pandas for database problems,
+Bash for shell problems, and no JavaScript option for concurrency problems. Those are tracked separately by category
+in STATUS.md.
 
 ## Repository layout
 
 ```
-solutions/2026/09/DD-NNNN-slug/
-    solution.js        JavaScript solution (LeetCode function signature, exported for tests)
-    solution.test.js   node:test tests: official examples, edge cases, randomized brute-force comparison
-    NOTES.md           problem summary in my own words, reasoning, proof sketch, JS details, complexity, pattern
-docs/patterns/         cross-problem patterns, JS lessons and testing lessons
-progress/              problem list, recorded LeetCode results, generated status table
-scripts/               helpers to record results and regenerate the status table
-tests/helpers/         shared test utilities (LeetCode-style binary tree builder)
+solutions/<id-range>/<NNNN-slug>/     e.g. solutions/0101-0200/0115-distinct-subsequences/
+    solution.js                       solution with LeetCode's signature (exported for tests)
+    solution.test.js                  node:test tests: examples, edge cases, brute-force comparison where useful
+    NOTES.md                          summary in my own words, approach, why it works, edge cases, complexity, pattern
+progress/
+    catalog.json                      all problems listed on LeetCode (public metadata only)
+    study-plans.json                  study plans, their badges and questions
+    results.json                      every recorded LeetCode submission result (source of truth for "solved")
+    daily-challenges.json             Daily Challenge history
+    account-snapshot.json             numbers read from the logged-in profile
+    badges.json                       badge / achievement tracker
+    tracker.json, STATUS.md, INDEX.md generated
+docs/                                 curriculum, patterns, study guides
+scripts/                              sync-catalog, sync-study-plans, add-result, build-tracker, new-problem
+tests/helpers/                        shared test utilities (LeetCode-style trees and linked lists)
 ```
 
-Problem statements are **not** copied here. Each NOTES.md summarizes the problem in original wording and links to
-the official page.
+Problem statements are **not** copied here. Notes summarize each problem in original wording and link to LeetCode.
 
-## Topics practiced
-
-| Area | Problems |
-|---|---|
-| Dynamic programming | 115, 940, 2472, 3414, 3524, 1621 |
-| Sliding window / prefix-suffix | 1477, 1658, 3903, 3904 |
-| Matrix / offset counting | 835 |
-| Greedy on intervals | 1520 |
-| BFS with bitmask state | 3568 |
-| Segment tree | 3525 |
-| Trees (post-order DFS) | 2265 |
-| Stacks, brackets, parsing | 1614, 1807, 1190, 1096 |
-| Math, combinatorics, geometry | 3875, 3876, 3870, 3871, 1621, 836, 1401, 3483, 3498, 3550 |
-
-A full study guide (all 28 problem write-ups with code, recurring patterns, a cheat sheet, and badge/achievement
-status) is available as a PDF:
-**[docs/LeetCode-Daily-Challenges-September-2026-Study-Guide.pdf](docs/LeetCode-Daily-Challenges-September-2026-Study-Guide.pdf)**.
-
-The best place to start is **[docs/patterns/README.md](docs/patterns/README.md)**, which groups the 28 problems by
-the idea that solves them and collects the JavaScript-specific lessons (the 2⁵³ integer limit, BigInt for modular
-multiplication, `%` with negatives, array aliasing, and so on).
-
-## Running the tests
+## Commands
 
 ```bash
-npm test
+npm test          # run all solution tests (Node 18+, no dependencies)
+npm run sync      # refresh the problem catalog and study plans from LeetCode
+npm run tracker   # regenerate tracker.json, STATUS.md and INDEX.md
 ```
-
-Requires Node.js 18+. There are no dependencies; the tests use the built-in `node:test` runner.
 
 ## Links
 
