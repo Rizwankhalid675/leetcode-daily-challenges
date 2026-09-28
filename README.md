@@ -53,6 +53,10 @@ the official page.
 | Stacks, brackets, parsing | 1614, 1807, 1190, 1096 |
 | Math, combinatorics, geometry | 3875, 3876, 3870, 3871, 1621, 836, 1401, 3483, 3498, 3550 |
 
+A full study guide (all 28 problem write-ups with code, recurring patterns, a cheat sheet, and badge/achievement
+status) is available as a PDF:
+**[docs/LeetCode-Daily-Challenges-September-2026-Study-Guide.pdf](docs/LeetCode-Daily-Challenges-September-2026-Study-Guide.pdf)**.
+
 The best place to start is **[docs/patterns/README.md](docs/patterns/README.md)**, which groups the 28 problems by
 the idea that solves them and collects the JavaScript-specific lessons (the 2⁵³ integer limit, BigInt for modular
 multiplication, `%` with negatives, array aliasing, and so on).
