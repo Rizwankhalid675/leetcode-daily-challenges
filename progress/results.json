@@ -1,0 +1,13 @@
+{
+  "note": "Copied from LeetCode's submission results. 'daily' = accepted inside the problem's own Daily Challenge window.",
+  "results": [
+    { "date": "2026-09-01", "id": 3568, "submission": 2156486202, "status": "Accepted", "tests": "799/799", "runtime": "174 ms", "memory": "76.7 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-02", "id": 3875, "submission": 2156486338, "status": "Accepted", "tests": "999/999", "runtime": "0 ms", "memory": "54.6 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-03", "id": 3876, "submission": 2156486388, "status": "Accepted", "tests": "1019/1019", "runtime": "5 ms", "memory": "72.9 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-04", "id": 3903, "submission": 2156486989, "status": "Accepted", "tests": "941/941", "runtime": "1 ms", "memory": "57.5 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-05", "id": 3904, "submission": 2156487047, "status": "Accepted", "tests": "928/928", "runtime": "15 ms", "memory": "78 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-06", "id": 115, "submission": 2156487117, "status": "Accepted", "tests": "66/66", "runtime": "18 ms", "memory": "57.5 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-07", "id": 940, "submission": 2156487174, "status": "Accepted", "tests": "110/110", "runtime": "5 ms", "memory": "55.1 MB", "attempts": 1, "daily": false },
+    { "date": "2026-09-28", "id": 1614, "submission": 2156484979, "status": "Accepted", "tests": "168/168", "runtime": "0 ms", "memory": "53.6 MB", "attempts": 1, "daily": true }
+  ]
+}

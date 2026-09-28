@@ -4,7 +4,8 @@
   "private": true,
   "description": "AI-assisted, documented walkthrough of the LeetCode September 2026 Daily Challenge problems in JavaScript.",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "status": "node scripts/build-status.js"
   },
   "engines": {
     "node": ">=18"
