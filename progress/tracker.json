@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-28T23:25:37.258Z",
+  "generatedAt": "2026-09-28T23:38:17.852Z",
   "catalogFetchedAt": "2026-09-28T23:04:20.984Z",
   "totals": {
     "listed": 4068,
     "accessible": 3284,
     "premium": 784,
-    "solved": 68,
-    "unsolvedAccessible": 3216
+    "solved": 103,
+    "unsolvedAccessible": 3181
   },
   "byDifficulty": {
     "Easy": {
       "listed": 968,
       "accessible": 839,
-      "solved": 24
+      "solved": 30
     },
     "Medium": {
       "listed": 2121,
       "accessible": 1660,
-      "solved": 37
+      "solved": 66
     },
     "Hard": {
       "listed": 979,
@@ -29,7 +29,7 @@
     "algorithms": {
       "listed": 3650,
       "accessible": 3117,
-      "solved": 68,
+      "solved": 103,
       "language": "javascript"
     },
     "database": {
@@ -66,11 +66,11 @@
   "topics": {
     "array": {
       "accessible": 1935,
-      "solved": 30
+      "solved": 48
     },
     "hash-table": {
       "accessible": 709,
-      "solved": 12
+      "solved": 15
     },
     "linked-list": {
       "accessible": 66,
@@ -78,7 +78,7 @@
     },
     "math": {
       "accessible": 618,
-      "solved": 11
+      "solved": 13
     },
     "recursion": {
       "accessible": 42,
@@ -86,7 +86,7 @@
     },
     "string": {
       "accessible": 772,
-      "solved": 20
+      "solved": 26
     },
     "sliding-window": {
       "accessible": 147,
@@ -94,19 +94,19 @@
     },
     "binary-search": {
       "accessible": 302,
-      "solved": 4
+      "solved": 9
     },
     "divide-and-conquer": {
       "accessible": 62,
-      "solved": 0
+      "solved": 1
     },
     "two-pointers": {
       "accessible": 221,
-      "solved": 11
+      "solved": 13
     },
     "dynamic-programming": {
       "accessible": 598,
-      "solved": 10
+      "solved": 20
     },
     "manacher": {
       "accessible": 3,
@@ -114,23 +114,23 @@
     },
     "greedy": {
       "accessible": 433,
-      "solved": 6
+      "solved": 10
     },
     "trie": {
       "accessible": 46,
-      "solved": 0
+      "solved": 2
     },
     "sorting": {
       "accessible": 461,
-      "solved": 5
+      "solved": 11
     },
     "backtracking": {
       "accessible": 94,
-      "solved": 1
+      "solved": 3
     },
     "stack": {
       "accessible": 150,
-      "solved": 7
+      "solved": 9
     },
     "bracket-sequences": {
       "accessible": 15,
@@ -138,7 +138,7 @@
     },
     "heap-priority-queue": {
       "accessible": 185,
-      "solved": 0
+      "solved": 5
     },
     "merge-sort": {
       "accessible": 13,
@@ -166,11 +166,11 @@
     },
     "bit-manipulation": {
       "accessible": 263,
-      "solved": 1
+      "solved": 4
     },
     "matrix": {
       "accessible": 240,
-      "solved": 3
+      "solved": 5
     },
     "algorithm-x": {
       "accessible": 3,
@@ -182,11 +182,11 @@
     },
     "monotonic-stack": {
       "accessible": 61,
-      "solved": 0
+      "solved": 2
     },
     "simulation": {
       "accessible": 199,
-      "solved": 4
+      "solved": 5
     },
     "quicksort": {
       "accessible": 6,
@@ -194,7 +194,7 @@
     },
     "combinatorics": {
       "accessible": 57,
-      "solved": 1
+      "solved": 2
     },
     "newtons-method": {
       "accessible": 1,
@@ -202,7 +202,7 @@
     },
     "memoization": {
       "accessible": 43,
-      "solved": 0
+      "solved": 1
     },
     "bubble-sort": {
       "accessible": 4,
@@ -210,7 +210,7 @@
     },
     "depth-first-search": {
       "accessible": 265,
-      "solved": 9
+      "solved": 13
     },
     "range-minimum-maximum-query": {
       "accessible": 2,
@@ -218,19 +218,19 @@
     },
     "tree": {
       "accessible": 201,
-      "solved": 9
+      "solved": 11
     },
     "binary-tree": {
       "accessible": 131,
-      "solved": 9
+      "solved": 11
     },
     "binary-search-tree": {
       "accessible": 30,
-      "solved": 0
+      "solved": 2
     },
     "breadth-first-search": {
       "accessible": 204,
-      "solved": 6
+      "solved": 12
     },
     "dp-on-trees": {
       "accessible": 23,
@@ -242,11 +242,11 @@
     },
     "union-find": {
       "accessible": 82,
-      "solved": 0
+      "solved": 2
     },
     "graph": {
       "accessible": 152,
-      "solved": 0
+      "solved": 4
     },
     "brute-force-search": {
       "accessible": 2,
@@ -258,7 +258,7 @@
     },
     "design": {
       "accessible": 99,
-      "solved": 1
+      "solved": 4
     },
     "doubly-linked-list": {
       "accessible": 10,
@@ -350,7 +350,7 @@
     },
     "quickselect": {
       "accessible": 8,
-      "solved": 0
+      "solved": 1
     },
     "binary-indexed-tree": {
       "accessible": 44,
@@ -366,7 +366,7 @@
     },
     "ordered-set": {
       "accessible": 65,
-      "solved": 0
+      "solved": 1
     },
     "queue": {
       "accessible": 47,
@@ -390,7 +390,7 @@
     },
     "interactive": {
       "accessible": 5,
-      "solved": 0
+      "solved": 1
     },
     "knapsack-problem": {
       "accessible": 16,
@@ -422,7 +422,7 @@
     },
     "data-stream": {
       "accessible": 16,
-      "solved": 1
+      "solved": 2
     },
     "longest-increasing-subsequence": {
       "accessible": 12,
@@ -474,15 +474,15 @@
     },
     "shortest-path": {
       "accessible": 35,
-      "solved": 0
+      "solved": 1
     },
     "bellman-ford-algorithm": {
       "accessible": 2,
-      "solved": 0
+      "solved": 1
     },
     "floyd-warshall-algorithm": {
       "accessible": 2,
-      "solved": 0
+      "solved": 1
     },
     "0-1-knapsack": {
       "accessible": 8,
@@ -506,7 +506,7 @@
     },
     "longest-common-subsequence": {
       "accessible": 6,
-      "solved": 0
+      "solved": 1
     },
     "convex-hull": {
       "accessible": 1,
@@ -766,7 +766,7 @@
       "listed": 75,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 40
+      "solved": 75
     },
     {
       "slug": "top-interview-150",
@@ -776,7 +776,7 @@
       "listed": 150,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 7
+      "solved": 16
     },
     {
       "slug": "top-100-liked",
@@ -786,7 +786,7 @@
       "listed": 100,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 9
+      "solved": 19
     },
     {
       "slug": "programming-skills",
@@ -806,7 +806,7 @@
       "listed": 46,
       "listIncomplete": true,
       "premiumQuestions": 0,
-      "solved": 1
+      "solved": 9
     },
     {
       "slug": "30-days-of-javascript",
@@ -846,7 +846,7 @@
       "listed": 32,
       "listIncomplete": true,
       "premiumQuestions": 3,
-      "solved": 0
+      "solved": 2
     },
     {
       "slug": "graph-theory",
@@ -856,7 +856,7 @@
       "listed": 36,
       "listIncomplete": true,
       "premiumQuestions": 2,
-      "solved": 0
+      "solved": 4
     },
     {
       "slug": "30-days-of-pandas",

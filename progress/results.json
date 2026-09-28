@@ -14,6 +14,42 @@
       "dailyDate": null
     },
     {
+      "id": "17",
+      "submission": 2156501091,
+      "status": "Accepted",
+      "tests": "24/24",
+      "runtime": "0 ms",
+      "memory": "53.9 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "62",
+      "submission": 2156501742,
+      "status": "Accepted",
+      "tests": "64/64",
+      "runtime": "0 ms",
+      "memory": "53.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "72",
+      "submission": 2156502057,
+      "status": "Accepted",
+      "tests": "1149/1149",
+      "runtime": "7 ms",
+      "memory": "58.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "104",
       "submission": 2156499085,
       "status": "Accepted",
@@ -39,12 +75,48 @@
       "septemberSetDate": "2026-09-06"
     },
     {
+      "id": "136",
+      "submission": 2156502152,
+      "status": "Accepted",
+      "tests": "61/61",
+      "runtime": "2 ms",
+      "memory": "57 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "151",
       "submission": 2156496126,
       "status": "Accepted",
       "tests": "62/62",
       "runtime": "0 ms",
       "memory": "55 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "162",
+      "submission": 2156500832,
+      "status": "Accepted",
+      "tests": "76/76",
+      "runtime": "0 ms",
+      "memory": "53.4 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "198",
+      "submission": 2156501634,
+      "status": "Accepted",
+      "tests": "70/70",
+      "runtime": "0 ms",
+      "memory": "53.6 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -69,6 +141,42 @@
       "tests": "28/28",
       "runtime": "0 ms",
       "memory": "57.9 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "208",
+      "submission": 2156502236,
+      "status": "Accepted",
+      "tests": "17/17",
+      "runtime": "44 ms",
+      "memory": "79.5 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "215",
+      "submission": 2156500285,
+      "status": "Accepted",
+      "tests": "47/47",
+      "runtime": "45 ms",
+      "memory": "75.5 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "216",
+      "submission": 2156501139,
+      "status": "Accepted",
+      "tests": "19/19",
+      "runtime": "0 ms",
+      "memory": "54 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -135,12 +243,36 @@
       "dailyDate": null
     },
     {
+      "id": "338",
+      "submission": 2156502098,
+      "status": "Accepted",
+      "tests": "15/15",
+      "runtime": "1 ms",
+      "memory": "61.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "345",
       "submission": 2156495896,
       "status": "Accepted",
       "tests": "480/480",
       "runtime": "7 ms",
       "memory": "58.7 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "374",
+      "submission": 2156500712,
+      "status": "Accepted",
+      "tests": "25/25",
+      "runtime": "36 ms",
+      "memory": "53.3 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -171,6 +303,30 @@
       "dailyDate": null
     },
     {
+      "id": "399",
+      "submission": 2156500129,
+      "status": "Accepted",
+      "tests": "29/29",
+      "runtime": "1 ms",
+      "memory": "53.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "435",
+      "submission": 2156502514,
+      "status": "Accepted",
+      "tests": "60/60",
+      "runtime": "84 ms",
+      "memory": "86.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "437",
       "submission": 2156499260,
       "status": "Accepted",
@@ -189,6 +345,42 @@
       "tests": "78/78",
       "runtime": "2 ms",
       "memory": "56.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "450",
+      "submission": 2156499612,
+      "status": "Accepted",
+      "tests": "95/95",
+      "runtime": "0 ms",
+      "memory": "66.2 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "452",
+      "submission": 2156502552,
+      "status": "Accepted",
+      "tests": "51/51",
+      "runtime": "87 ms",
+      "memory": "79.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "547",
+      "submission": 2156499707,
+      "status": "Accepted",
+      "tests": "114/114",
+      "runtime": "3 ms",
+      "memory": "56.8 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -231,6 +423,30 @@
       "dailyDate": null
     },
     {
+      "id": "700",
+      "submission": 2156499561,
+      "status": "Accepted",
+      "tests": "36/36",
+      "runtime": "0 ms",
+      "memory": "61.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "714",
+      "submission": 2156501820,
+      "status": "Accepted",
+      "tests": "45/45",
+      "runtime": "9 ms",
+      "memory": "65.2 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "724",
       "submission": 2156497094,
       "status": "Accepted",
@@ -249,6 +465,42 @@
       "tests": "276/276",
       "runtime": "3 ms",
       "memory": "58 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "739",
+      "submission": 2156502596,
+      "status": "Accepted",
+      "tests": "48/48",
+      "runtime": "18 ms",
+      "memory": "78.9 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "746",
+      "submission": 2156501251,
+      "status": "Accepted",
+      "tests": "286/286",
+      "runtime": "1 ms",
+      "memory": "53.9 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "790",
+      "submission": 2156501685,
+      "status": "Accepted",
+      "tests": "39/39",
+      "runtime": "2 ms",
+      "memory": "55.8 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -281,12 +533,48 @@
       "septemberSetDate": "2026-09-14"
     },
     {
+      "id": "841",
+      "submission": 2156499655,
+      "status": "Accepted",
+      "tests": "70/70",
+      "runtime": "2 ms",
+      "memory": "57.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "872",
       "submission": 2156499146,
       "status": "Accepted",
       "tests": "48/48",
       "runtime": "0 ms",
       "memory": "55.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "875",
+      "submission": 2156501037,
+      "status": "Accepted",
+      "tests": "128/128",
+      "runtime": "13 ms",
+      "memory": "60.2 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "901",
+      "submission": 2156502661,
+      "status": "Accepted",
+      "tests": "101/101",
+      "runtime": "52 ms",
+      "memory": "71 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -316,6 +604,18 @@
       "solvedOn": "2026-09-28",
       "dailyDate": null,
       "septemberSetDate": "2026-09-07"
+    },
+    {
+      "id": "994",
+      "submission": 2156500229,
+      "status": "Accepted",
+      "tests": "307/307",
+      "runtime": "24 ms",
+      "memory": "62 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
     },
     {
       "id": "1004",
@@ -355,6 +655,30 @@
       "septemberSetDate": "2026-09-25"
     },
     {
+      "id": "1137",
+      "submission": 2156501192,
+      "status": "Accepted",
+      "tests": "38/38",
+      "runtime": "1 ms",
+      "memory": "53.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "1143",
+      "submission": 2156501776,
+      "status": "Accepted",
+      "tests": "49/49",
+      "runtime": "26 ms",
+      "memory": "55.6 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "1161",
       "submission": 2156499465,
       "status": "Accepted",
@@ -386,6 +710,30 @@
       "tests": "73/73",
       "runtime": "1 ms",
       "memory": "53.9 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "1268",
+      "submission": 2156502466,
+      "status": "Accepted",
+      "tests": "43/43",
+      "runtime": "10 ms",
+      "memory": "67.8 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "1318",
+      "submission": 2156502193,
+      "status": "Accepted",
+      "tests": "64/64",
+      "runtime": "32 ms",
+      "memory": "53.6 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -447,6 +795,18 @@
       "tests": "107/107",
       "runtime": "10 ms",
       "memory": "59.4 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "1466",
+      "submission": 2156499760,
+      "status": "Accepted",
+      "tests": "77/77",
+      "runtime": "252 ms",
+      "memory": "99 MB",
       "language": "javascript",
       "attempts": 1,
       "solvedOn": "2026-09-28",
@@ -591,6 +951,18 @@
       "septemberSetDate": "2026-09-26"
     },
     {
+      "id": "1926",
+      "submission": 2156500181,
+      "status": "Accepted",
+      "tests": "194/194",
+      "runtime": "26 ms",
+      "memory": "67.3 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "2095",
       "submission": 2156498084,
       "status": "Accepted",
@@ -640,6 +1012,30 @@
       "septemberSetDate": "2026-09-10"
     },
     {
+      "id": "2300",
+      "submission": 2156500779,
+      "status": "Accepted",
+      "tests": "57/57",
+      "runtime": "74 ms",
+      "memory": "90.4 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
+      "id": "2336",
+      "submission": 2156500322,
+      "status": "Accepted",
+      "tests": "138/138",
+      "runtime": "26 ms",
+      "memory": "65.8 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "2352",
       "submission": 2156497566,
       "status": "Accepted",
@@ -664,6 +1060,18 @@
       "dailyDate": null
     },
     {
+      "id": "2462",
+      "submission": 2156500643,
+      "status": "Accepted",
+      "tests": "164/164",
+      "runtime": "121 ms",
+      "memory": "76.5 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
+    },
+    {
       "id": "2472",
       "submission": 2156489278,
       "status": "Accepted",
@@ -675,6 +1083,18 @@
       "solvedOn": "2026-09-28",
       "dailyDate": null,
       "septemberSetDate": "2026-09-15"
+    },
+    {
+      "id": "2542",
+      "submission": 2156500602,
+      "status": "Accepted",
+      "tests": "28/28",
+      "runtime": "114 ms",
+      "memory": "82.1 MB",
+      "language": "javascript",
+      "attempts": 1,
+      "solvedOn": "2026-09-28",
+      "dailyDate": null
     },
     {
       "id": "3414",
