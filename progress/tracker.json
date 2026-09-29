@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-29T00:34:25.956Z",
+  "generatedAt": "2026-09-29T01:27:35.361Z",
   "catalogFetchedAt": "2026-09-28T23:04:20.984Z",
   "totals": {
     "listed": 4068,
     "accessible": 3284,
     "premium": 784,
-    "solved": 186,
-    "unsolvedAccessible": 3098
+    "solved": 356,
+    "unsolvedAccessible": 2928
   },
   "byDifficulty": {
     "Easy": {
       "listed": 968,
       "accessible": 839,
-      "solved": 69
+      "solved": 101
     },
     "Medium": {
       "listed": 2121,
       "accessible": 1660,
-      "solved": 102
+      "solved": 196
     },
     "Hard": {
       "listed": 979,
       "accessible": 785,
-      "solved": 15
+      "solved": 59
     }
   },
   "byCategory": {
     "algorithms": {
       "listed": 3650,
       "accessible": 3117,
-      "solved": 186,
+      "solved": 334,
       "language": "javascript"
     },
     "database": {
       "listed": 323,
       "accessible": 105,
-      "solved": 0,
+      "solved": 22,
       "language": "sql"
     },
     "shell": {
@@ -66,99 +66,99 @@
   "topics": {
     "array": {
       "accessible": 1935,
-      "solved": 99
+      "solved": 172
     },
     "hash-table": {
       "accessible": 709,
-      "solved": 38
+      "solved": 70
     },
     "linked-list": {
       "accessible": 66,
-      "solved": 9
+      "solved": 18
     },
     "math": {
       "accessible": 618,
-      "solved": 22
+      "solved": 56
     },
     "recursion": {
       "accessible": 42,
-      "solved": 6
+      "solved": 10
     },
     "string": {
       "accessible": 772,
-      "solved": 54
+      "solved": 74
     },
     "sliding-window": {
       "accessible": 147,
-      "solved": 11
+      "solved": 16
     },
     "binary-search": {
       "accessible": 302,
-      "solved": 11
+      "solved": 25
     },
     "divide-and-conquer": {
       "accessible": 62,
-      "solved": 2
+      "solved": 12
     },
     "two-pointers": {
       "accessible": 221,
-      "solved": 25
+      "solved": 32
     },
     "dynamic-programming": {
       "accessible": 598,
-      "solved": 27
+      "solved": 47
     },
     "manacher": {
       "accessible": 3,
-      "solved": 0
+      "solved": 2
     },
     "greedy": {
       "accessible": 433,
-      "solved": 17
+      "solved": 21
     },
     "trie": {
       "accessible": 46,
-      "solved": 3
+      "solved": 8
     },
     "sorting": {
       "accessible": 461,
-      "solved": 20
+      "solved": 34
     },
     "backtracking": {
       "accessible": 94,
-      "solved": 3
+      "solved": 13
     },
     "stack": {
       "accessible": 150,
-      "solved": 21
+      "solved": 29
     },
     "bracket-sequences": {
       "accessible": 15,
-      "solved": 4
+      "solved": 5
     },
     "heap-priority-queue": {
       "accessible": 185,
-      "solved": 9
+      "solved": 20
     },
     "merge-sort": {
       "accessible": 13,
-      "solved": 0
+      "solved": 3
     },
     "tournament-sort": {
       "accessible": 1,
-      "solved": 0
+      "solved": 1
     },
     "string-matching": {
       "accessible": 33,
-      "solved": 5
+      "solved": 8
     },
     "z-algorithm": {
       "accessible": 11,
-      "solved": 3
+      "solved": 6
     },
     "knuth-morris-pratt-algorithm": {
       "accessible": 10,
-      "solved": 3
+      "solved": 6
     },
     "boyer-moore-string-search-algorithm": {
       "accessible": 6,
@@ -166,11 +166,11 @@
     },
     "bit-manipulation": {
       "accessible": 263,
-      "solved": 5
+      "solved": 15
     },
     "matrix": {
       "accessible": 240,
-      "solved": 11
+      "solved": 18
     },
     "algorithm-x": {
       "accessible": 3,
@@ -182,11 +182,11 @@
     },
     "monotonic-stack": {
       "accessible": 61,
-      "solved": 5
+      "solved": 10
     },
     "simulation": {
       "accessible": 199,
-      "solved": 12
+      "solved": 15
     },
     "quicksort": {
       "accessible": 6,
@@ -194,7 +194,7 @@
     },
     "combinatorics": {
       "accessible": 57,
-      "solved": 2
+      "solved": 3
     },
     "newtons-method": {
       "accessible": 1,
@@ -202,7 +202,7 @@
     },
     "memoization": {
       "accessible": 43,
-      "solved": 1
+      "solved": 4
     },
     "bubble-sort": {
       "accessible": 4,
@@ -210,47 +210,47 @@
     },
     "depth-first-search": {
       "accessible": 265,
-      "solved": 13
+      "solved": 27
     },
     "range-minimum-maximum-query": {
       "accessible": 2,
-      "solved": 0
+      "solved": 2
     },
     "tree": {
       "accessible": 201,
-      "solved": 11
+      "solved": 21
     },
     "binary-tree": {
       "accessible": 131,
-      "solved": 11
+      "solved": 20
     },
     "binary-search-tree": {
       "accessible": 30,
-      "solved": 2
+      "solved": 5
     },
     "breadth-first-search": {
       "accessible": 204,
-      "solved": 12
+      "solved": 26
     },
     "dp-on-trees": {
       "accessible": 23,
-      "solved": 1
+      "solved": 3
     },
     "bidirectional-search": {
       "accessible": 6,
-      "solved": 0
+      "solved": 1
     },
     "union-find": {
       "accessible": 82,
-      "solved": 3
+      "solved": 13
     },
     "graph": {
       "accessible": 152,
-      "solved": 4
+      "solved": 23
     },
     "brute-force-search": {
       "accessible": 2,
-      "solved": 0
+      "solved": 1
     },
     "floyds-cycle-finding-algorithm": {
       "accessible": 6,
@@ -258,39 +258,39 @@
     },
     "design": {
       "accessible": 99,
-      "solved": 8
+      "solved": 24
     },
     "doubly-linked-list": {
       "accessible": 10,
-      "solved": 0
+      "solved": 3
     },
     "geometry": {
       "accessible": 40,
-      "solved": 2
+      "solved": 7
     },
     "euclidean-algorithm": {
       "accessible": 22,
-      "solved": 1
+      "solved": 4
     },
     "greatest-common-divisor": {
       "accessible": 24,
-      "solved": 1
+      "solved": 5
     },
     "bucket-sort": {
       "accessible": 6,
-      "solved": 0
+      "solved": 2
     },
     "radix-sort": {
       "accessible": 3,
-      "solved": 0
+      "solved": 1
     },
     "pigeonhole-principle": {
       "accessible": 5,
-      "solved": 0
+      "solved": 2
     },
     "counting": {
       "accessible": 189,
-      "solved": 3
+      "solved": 5
     },
     "boyer-moore-majority-vote-algorithm": {
       "accessible": 3,
@@ -302,15 +302,15 @@
     },
     "database": {
       "accessible": 94,
-      "solved": 0
+      "solved": 22
     },
     "rolling-hash": {
       "accessible": 26,
-      "solved": 0
+      "solved": 3
     },
     "hash-function": {
       "accessible": 35,
-      "solved": 0
+      "solved": 3
     },
     "shell": {
       "accessible": 4,
@@ -318,47 +318,47 @@
     },
     "enumeration": {
       "accessible": 155,
-      "solved": 1
+      "solved": 3
     },
     "number-theory": {
       "accessible": 98,
-      "solved": 0
+      "solved": 8
     },
     "primality-test": {
       "accessible": 10,
-      "solved": 0
+      "solved": 3
     },
     "sieve-theory": {
       "accessible": 10,
-      "solved": 0
+      "solved": 2
     },
     "prime-number-sieve": {
       "accessible": 7,
-      "solved": 0
+      "solved": 2
     },
     "topological-sort": {
       "accessible": 30,
-      "solved": 0
+      "solved": 2
     },
     "directed-acyclic-graph": {
       "accessible": 14,
-      "solved": 0
+      "solved": 3
     },
     "prefix-sum": {
       "accessible": 246,
-      "solved": 9
+      "solved": 16
     },
     "quickselect": {
       "accessible": 8,
-      "solved": 1
+      "solved": 2
     },
     "binary-indexed-tree": {
       "accessible": 44,
-      "solved": 0
+      "solved": 3
     },
     "segment-tree": {
       "accessible": 75,
-      "solved": 1
+      "solved": 8
     },
     "sweep-line": {
       "accessible": 6,
@@ -366,11 +366,11 @@
     },
     "ordered-set": {
       "accessible": 65,
-      "solved": 1
+      "solved": 7
     },
     "queue": {
       "accessible": 47,
-      "solved": 6
+      "solved": 7
     },
     "binary-lifting": {
       "accessible": 7,
@@ -382,11 +382,11 @@
     },
     "monotonic-queue": {
       "accessible": 23,
-      "solved": 0
+      "solved": 1
     },
     "counting-sort": {
       "accessible": 9,
-      "solved": 2
+      "solved": 3
     },
     "interactive": {
       "accessible": 5,
@@ -394,7 +394,7 @@
     },
     "knapsack-problem": {
       "accessible": 16,
-      "solved": 0
+      "solved": 1
     },
     "complete-knapsack": {
       "accessible": 5,
@@ -402,27 +402,27 @@
     },
     "brainteaser": {
       "accessible": 18,
-      "solved": 0
+      "solved": 1
     },
     "minimax-algorithm": {
       "accessible": 15,
-      "solved": 0
+      "solved": 3
     },
     "game-theory": {
       "accessible": 26,
-      "solved": 0
+      "solved": 3
     },
     "nim-game": {
       "accessible": 3,
-      "solved": 0
+      "solved": 1
     },
     "impartial-game": {
       "accessible": 3,
-      "solved": 0
+      "solved": 1
     },
     "data-stream": {
       "accessible": 16,
-      "solved": 2
+      "solved": 5
     },
     "longest-increasing-subsequence": {
       "accessible": 12,
@@ -430,11 +430,11 @@
     },
     "sqrt-decomposition": {
       "accessible": 3,
-      "solved": 0
+      "solved": 1
     },
     "treap": {
       "accessible": 5,
-      "solved": 0
+      "solved": 1
     },
     "eulerian-circuit": {
       "accessible": 3,
@@ -466,7 +466,7 @@
     },
     "randomized": {
       "accessible": 12,
-      "solved": 1
+      "solved": 2
     },
     "reservoir-sampling": {
       "accessible": 4,
@@ -474,19 +474,19 @@
     },
     "shortest-path": {
       "accessible": 35,
-      "solved": 1
+      "solved": 5
     },
     "bellman-ford-algorithm": {
       "accessible": 2,
-      "solved": 1
+      "solved": 2
     },
     "floyd-warshall-algorithm": {
       "accessible": 2,
-      "solved": 1
+      "solved": 2
     },
     "0-1-knapsack": {
       "accessible": 8,
-      "solved": 0
+      "solved": 1
     },
     "bitmask": {
       "accessible": 48,
@@ -502,11 +502,11 @@
     },
     "zero-sum-game": {
       "accessible": 12,
-      "solved": 0
+      "solved": 2
     },
     "longest-common-subsequence": {
       "accessible": 6,
-      "solved": 1
+      "solved": 2
     },
     "convex-hull": {
       "accessible": 1,
@@ -514,7 +514,7 @@
     },
     "polygons": {
       "accessible": 6,
-      "solved": 0
+      "solved": 1
     },
     "linear-algebra": {
       "accessible": 1,
@@ -526,7 +526,7 @@
     },
     "dijkstra": {
       "accessible": 12,
-      "solved": 0
+      "solved": 2
     },
     "eulerian-graph": {
       "accessible": 1,
@@ -562,11 +562,11 @@
     },
     "ternary-search": {
       "accessible": 2,
-      "solved": 0
+      "solved": 1
     },
     "least-common-multiple": {
       "accessible": 7,
-      "solved": 0
+      "solved": 1
     },
     "inclusion-exclusion-principle": {
       "accessible": 3,
@@ -586,7 +586,7 @@
     },
     "prime-factorization": {
       "accessible": 12,
-      "solved": 0
+      "solved": 3
     },
     "planar-graph": {
       "accessible": 1,
@@ -606,7 +606,7 @@
     },
     "aho-corasick-algorithm": {
       "accessible": 1,
-      "solved": 0
+      "solved": 1
     },
     "triangulation": {
       "accessible": 1,
@@ -614,7 +614,7 @@
     },
     "suffix-array": {
       "accessible": 6,
-      "solved": 0
+      "solved": 1
     },
     "suffix-automaton": {
       "accessible": 3,
@@ -690,23 +690,23 @@
     },
     "minimum-spanning-tree": {
       "accessible": 3,
-      "solved": 0
+      "solved": 2
     },
     "strongly-connected-component": {
       "accessible": 2,
-      "solved": 0
+      "solved": 1
     },
     "prims-algorithm": {
       "accessible": 2,
-      "solved": 0
+      "solved": 2
     },
     "kruskals-algorithm": {
       "accessible": 2,
-      "solved": 0
+      "solved": 2
     },
     "boruvkas-algorithm": {
       "accessible": 2,
-      "solved": 0
+      "solved": 2
     },
     "sprague-grundy-theorem": {
       "accessible": 1,
@@ -776,7 +776,7 @@
       "listed": 150,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 72
+      "solved": 93
     },
     {
       "slug": "top-100-liked",
@@ -786,7 +786,7 @@
       "listed": 100,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 41
+      "solved": 59
     },
     {
       "slug": "programming-skills",
@@ -796,7 +796,7 @@
       "listed": 33,
       "listIncomplete": true,
       "premiumQuestions": 0,
-      "solved": 12
+      "solved": 15
     },
     {
       "slug": "dynamic-programming",
@@ -806,7 +806,7 @@
       "listed": 46,
       "listIncomplete": true,
       "premiumQuestions": 0,
-      "solved": 9
+      "solved": 13
     },
     {
       "slug": "30-days-of-javascript",
@@ -826,7 +826,7 @@
       "listed": 50,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 0
+      "solved": 13
     },
     {
       "slug": "introduction-to-pandas",
@@ -846,7 +846,7 @@
       "listed": 32,
       "listIncomplete": true,
       "premiumQuestions": 3,
-      "solved": 2
+      "solved": 7
     },
     {
       "slug": "graph-theory",
@@ -856,7 +856,7 @@
       "listed": 36,
       "listIncomplete": true,
       "premiumQuestions": 2,
-      "solved": 4
+      "solved": 10
     },
     {
       "slug": "30-days-of-pandas",
@@ -866,7 +866,7 @@
       "listed": 33,
       "listIncomplete": false,
       "premiumQuestions": 5,
-      "solved": 0
+      "solved": 5
     },
     {
       "slug": "dynamic-programming-grandmaster",
@@ -1096,6 +1096,48 @@
         "name": "Public Sponsor",
         "status": "REQUIRES PAYMENT"
       }
-    ]
+    ],
+    "quests": [
+      {
+        "name": "Data Structures and Algorithms Quest",
+        "levels": "35/35 required levels",
+        "status": "EARNED",
+        "badge": "Algorithm Deconstructor Badge",
+        "notes": "Premium-only levels 5, 20, 32, 34 were not needed for completion",
+        "source": "LeetCode questDetail/questUnits GraphQL, read 2026-09-29 after completion"
+      },
+      {
+        "name": "Database Quest",
+        "levels": "5/5",
+        "status": "EARNED",
+        "badge": "Data Navigator Badge",
+        "notes": "MySQL. Quizzes 16 and 17 contain Premium problems (580, 1532) and are not done; not required for completion",
+        "source": "LeetCode questDetail/questUnits GraphQL, read 2026-09-29 after completion"
+      },
+      {
+        "name": "System & Software Design Quest",
+        "levels": "5/5",
+        "status": "EARNED",
+        "badge": "Architecture Builder Badge",
+        "notes": "Quizzes 19 and 23 contain Premium problems (635, 588) and are not done; not required for completion",
+        "source": "LeetCode questDetail/questUnits GraphQL, read 2026-09-29 after completion"
+      },
+      {
+        "name": "Maths Quest",
+        "levels": "7/7 (all levels and all quizzes)",
+        "status": "EARNED",
+        "badge": "Mathematical Insight Badge",
+        "source": "LeetCode questDetail/questUnits GraphQL, read 2026-09-29 after completion"
+      },
+      {
+        "name": "2026 Spring Sprint",
+        "levels": "9/9 required levels",
+        "status": "EARNED",
+        "badge": "none returned by the reward call",
+        "notes": "Premium Deep Dive levels 60, 64, 68 not done; Interview Benchmark quizzes 31-36 completed (AI-assisted)",
+        "source": "LeetCode questDetail/questUnits GraphQL, read 2026-09-29 after completion"
+      }
+    ],
+    "questNote": "All quest submissions were written and submitted by Claude (AI-assisted), each with local tests; see solutions/*/NOTES.md. Badge names come from the quest reward API response; confirm on the profile page."
   }
 }
