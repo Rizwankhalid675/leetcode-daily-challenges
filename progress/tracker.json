@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-09-28T23:57:01.256Z",
+  "generatedAt": "2026-09-29T00:00:49.612Z",
   "catalogFetchedAt": "2026-09-28T23:04:20.984Z",
   "totals": {
     "listed": 4068,
     "accessible": 3284,
     "premium": 784,
-    "solved": 153,
-    "unsolvedAccessible": 3131
+    "solved": 158,
+    "unsolvedAccessible": 3126
   },
   "byDifficulty": {
     "Easy": {
       "listed": 968,
       "accessible": 839,
-      "solved": 49
+      "solved": 51
     },
     "Medium": {
       "listed": 2121,
       "accessible": 1660,
-      "solved": 92
+      "solved": 94
     },
     "Hard": {
       "listed": 979,
       "accessible": 785,
-      "solved": 12
+      "solved": 13
     }
   },
   "byCategory": {
     "algorithms": {
       "listed": 3650,
       "accessible": 3117,
-      "solved": 153,
+      "solved": 158,
       "language": "javascript"
     },
     "database": {
@@ -70,23 +70,23 @@
     },
     "hash-table": {
       "accessible": 709,
-      "solved": 33
+      "solved": 35
     },
     "linked-list": {
       "accessible": 66,
-      "solved": 4
+      "solved": 8
     },
     "math": {
       "accessible": 618,
-      "solved": 20
+      "solved": 22
     },
     "recursion": {
       "accessible": 42,
-      "solved": 3
+      "solved": 6
     },
     "string": {
       "accessible": 772,
-      "solved": 44
+      "solved": 45
     },
     "sliding-window": {
       "accessible": 147,
@@ -102,7 +102,7 @@
     },
     "two-pointers": {
       "accessible": 221,
-      "solved": 24
+      "solved": 25
     },
     "dynamic-programming": {
       "accessible": 598,
@@ -130,7 +130,7 @@
     },
     "stack": {
       "accessible": 150,
-      "solved": 14
+      "solved": 15
     },
     "bracket-sequences": {
       "accessible": 15,
@@ -254,7 +254,7 @@
     },
     "floyds-cycle-finding-algorithm": {
       "accessible": 6,
-      "solved": 1
+      "solved": 2
     },
     "design": {
       "accessible": 99,
@@ -776,7 +776,7 @@
       "listed": 150,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 66
+      "solved": 71
     },
     {
       "slug": "top-100-liked",
@@ -786,7 +786,7 @@
       "listed": 100,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 37
+      "solved": 41
     },
     {
       "slug": "programming-skills",
@@ -796,7 +796,7 @@
       "listed": 33,
       "listIncomplete": true,
       "premiumQuestions": 0,
-      "solved": 9
+      "solved": 11
     },
     {
       "slug": "dynamic-programming",
