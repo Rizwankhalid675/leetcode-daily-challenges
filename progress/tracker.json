@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-29T00:00:49.612Z",
+  "generatedAt": "2026-09-29T00:16:36.208Z",
   "catalogFetchedAt": "2026-09-28T23:04:20.984Z",
   "totals": {
     "listed": 4068,
     "accessible": 3284,
     "premium": 784,
-    "solved": 158,
-    "unsolvedAccessible": 3126
+    "solved": 159,
+    "unsolvedAccessible": 3125
   },
   "byDifficulty": {
     "Easy": {
@@ -22,14 +22,14 @@
     "Hard": {
       "listed": 979,
       "accessible": 785,
-      "solved": 13
+      "solved": 14
     }
   },
   "byCategory": {
     "algorithms": {
       "listed": 3650,
       "accessible": 3117,
-      "solved": 158,
+      "solved": 159,
       "language": "javascript"
     },
     "database": {
@@ -66,7 +66,7 @@
   "topics": {
     "array": {
       "accessible": 1935,
-      "solved": 81
+      "solved": 82
     },
     "hash-table": {
       "accessible": 709,
@@ -106,7 +106,7 @@
     },
     "dynamic-programming": {
       "accessible": 598,
-      "solved": 25
+      "solved": 26
     },
     "manacher": {
       "accessible": 3,
@@ -134,7 +134,7 @@
     },
     "bracket-sequences": {
       "accessible": 15,
-      "solved": 3
+      "solved": 4
     },
     "heap-priority-queue": {
       "accessible": 185,
@@ -170,7 +170,7 @@
     },
     "matrix": {
       "accessible": 240,
-      "solved": 10
+      "solved": 11
     },
     "algorithm-x": {
       "accessible": 3,
@@ -890,7 +890,7 @@
     }
   ],
   "account": {
-    "capturedAt": "2026-09-28T23:15:00Z",
+    "capturedAt": "2026-09-29T00:16:34.897Z",
     "source": "logged-in LeetCode profile (https://leetcode.com/u/user7283A/) and GraphQL userCalendar/streakCounter",
     "solved": 28,
     "totalListed": 4068,
@@ -899,8 +899,8 @@
     "hard": "7 / 979",
     "submissions": 28,
     "activeDays": 1,
-    "streak": 1,
-    "dailyDate": "2026-09-28",
+    "streak": 2,
+    "dailyDate": "2026-09-29",
     "dailyStatus": "Finished (inside window)",
     "badges": []
   },
