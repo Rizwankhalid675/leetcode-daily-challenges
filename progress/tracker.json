@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-09-29T00:16:36.208Z",
+  "generatedAt": "2026-09-29T00:34:25.956Z",
   "catalogFetchedAt": "2026-09-28T23:04:20.984Z",
   "totals": {
     "listed": 4068,
     "accessible": 3284,
     "premium": 784,
-    "solved": 159,
-    "unsolvedAccessible": 3125
+    "solved": 186,
+    "unsolvedAccessible": 3098
   },
   "byDifficulty": {
     "Easy": {
       "listed": 968,
       "accessible": 839,
-      "solved": 51
+      "solved": 69
     },
     "Medium": {
       "listed": 2121,
       "accessible": 1660,
-      "solved": 94
+      "solved": 102
     },
     "Hard": {
       "listed": 979,
       "accessible": 785,
-      "solved": 14
+      "solved": 15
     }
   },
   "byCategory": {
     "algorithms": {
       "listed": 3650,
       "accessible": 3117,
-      "solved": 159,
+      "solved": 186,
       "language": "javascript"
     },
     "database": {
@@ -66,15 +66,15 @@
   "topics": {
     "array": {
       "accessible": 1935,
-      "solved": 82
+      "solved": 99
     },
     "hash-table": {
       "accessible": 709,
-      "solved": 35
+      "solved": 38
     },
     "linked-list": {
       "accessible": 66,
-      "solved": 8
+      "solved": 9
     },
     "math": {
       "accessible": 618,
@@ -86,7 +86,7 @@
     },
     "string": {
       "accessible": 772,
-      "solved": 45
+      "solved": 54
     },
     "sliding-window": {
       "accessible": 147,
@@ -106,7 +106,7 @@
     },
     "dynamic-programming": {
       "accessible": 598,
-      "solved": 26
+      "solved": 27
     },
     "manacher": {
       "accessible": 3,
@@ -114,7 +114,7 @@
     },
     "greedy": {
       "accessible": 433,
-      "solved": 15
+      "solved": 17
     },
     "trie": {
       "accessible": 46,
@@ -122,7 +122,7 @@
     },
     "sorting": {
       "accessible": 461,
-      "solved": 18
+      "solved": 20
     },
     "backtracking": {
       "accessible": 94,
@@ -130,7 +130,7 @@
     },
     "stack": {
       "accessible": 150,
-      "solved": 15
+      "solved": 21
     },
     "bracket-sequences": {
       "accessible": 15,
@@ -138,7 +138,7 @@
     },
     "heap-priority-queue": {
       "accessible": 185,
-      "solved": 5
+      "solved": 9
     },
     "merge-sort": {
       "accessible": 13,
@@ -150,23 +150,23 @@
     },
     "string-matching": {
       "accessible": 33,
-      "solved": 1
+      "solved": 5
     },
     "z-algorithm": {
       "accessible": 11,
-      "solved": 1
+      "solved": 3
     },
     "knuth-morris-pratt-algorithm": {
       "accessible": 10,
-      "solved": 1
+      "solved": 3
     },
     "boyer-moore-string-search-algorithm": {
       "accessible": 6,
-      "solved": 1
+      "solved": 2
     },
     "bit-manipulation": {
       "accessible": 263,
-      "solved": 4
+      "solved": 5
     },
     "matrix": {
       "accessible": 240,
@@ -182,11 +182,11 @@
     },
     "monotonic-stack": {
       "accessible": 61,
-      "solved": 3
+      "solved": 5
     },
     "simulation": {
       "accessible": 199,
-      "solved": 8
+      "solved": 12
     },
     "quicksort": {
       "accessible": 6,
@@ -258,7 +258,7 @@
     },
     "design": {
       "accessible": 99,
-      "solved": 6
+      "solved": 8
     },
     "doubly-linked-list": {
       "accessible": 10,
@@ -370,7 +370,7 @@
     },
     "queue": {
       "accessible": 47,
-      "solved": 2
+      "solved": 6
     },
     "binary-lifting": {
       "accessible": 7,
@@ -386,7 +386,7 @@
     },
     "counting-sort": {
       "accessible": 9,
-      "solved": 1
+      "solved": 2
     },
     "interactive": {
       "accessible": 5,
@@ -776,7 +776,7 @@
       "listed": 150,
       "listIncomplete": false,
       "premiumQuestions": 0,
-      "solved": 71
+      "solved": 72
     },
     {
       "slug": "top-100-liked",
@@ -796,7 +796,7 @@
       "listed": 33,
       "listIncomplete": true,
       "premiumQuestions": 0,
-      "solved": 11
+      "solved": 12
     },
     {
       "slug": "dynamic-programming",
